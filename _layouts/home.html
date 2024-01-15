@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="container">
+	<div class="herocontainer">
+		<div class="image"><img src="/assets/img/further-afield.png" /></div>
+		<div class="content">{{ content }}</div>
+	</div>
+
+	<div class="news">
+		<ul class="post-list" style="padding-top: 20px">
+			{% assign news = site.posts | where: "tags", "news" %} {%- for post
+			in news -%}
+			<li>
+				{%- assign date_format = site.minima.date_format | default: "%b
+				%-d, %Y" -%}
+				<span class="post-meta"
+					>{{ post.date | date: date_format }}</span
+				>
+				<h3>
+					<a class="post-link" href="{{ post.url | relative_url }}">
+						{{ post.title | escape }}
+					</a>
+				</h3>
+				{%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
+			</li>
+			{%- endfor -%}
+		</ul>
+	</div>
+</div>
