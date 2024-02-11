@@ -37,7 +37,7 @@ show_excerpts: true
 
 # SEO:
 tagline: "Official +/- {plus/minus} Website"
-description: "All the hotness"
+description: "Official +/- {plus/minus} Website"
 logo: "assets/img/further-afield.png"
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -58,3 +58,5 @@ logo: "assets/img/further-afield.png"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+    - scripts/
