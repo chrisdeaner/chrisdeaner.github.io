@@ -7,5 +7,5 @@ layout: home
 
 # New Album!
 
--   Album is available July 2024
+-   Available July 2024
 -   Pre-order here
