@@ -18,8 +18,6 @@ async function processLineByLine() {
 		const theRest = line.slice(2);
 		// if it is not a number, then it's a month / year
 		if (isNaN(day)) {
-			show.monthYear = line;
-			shows.push(show);
 			monthYear = line;
 			continue;
 		}
@@ -34,7 +32,6 @@ async function processLineByLine() {
 }
 
 await processLineByLine();
-//console.log("shows", shows);
 
 fs.writeFile("../assets/json/shows.json", JSON.stringify(shows), (err) => {
 	// Checking for errors
