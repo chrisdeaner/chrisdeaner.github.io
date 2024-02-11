@@ -1,0 +1,22 @@
+.herocontainer {
+	display: flex;
+	width: 100%;
+	background-color: #c80100ff;
+	padding: 30px;
+
+	.image {
+		width: 50%;
+	}
+	.content {
+		padding: 0 15px;
+		color: #ece1d6;
+	}
+}
+
+.links {
+	display: flex;
+	justify-content: right;
+	.link {
+		padding-left: 10px;
+	}
+}
