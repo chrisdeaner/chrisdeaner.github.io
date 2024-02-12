@@ -19,3 +19,10 @@
 		padding-left: 10px;
 	}
 }
+
+#shows {
+	#month {
+		padding-top: 20px;
+		font-weight: 500;
+	}
+}
