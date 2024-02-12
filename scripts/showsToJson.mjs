@@ -40,7 +40,7 @@ async function processLineByLine() {
 
 await processLineByLine();
 
-fs.writeFile("../_data/shows.json", JSON.stringify(shows), (err) => {
+fs.writeFile("../_data/shows.json", JSON.stringify(shows, null, 2), (err) => {
 	// Checking for errors
 	if (err) throw err;
 });
