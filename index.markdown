@@ -5,7 +5,10 @@
 layout: home
 ---
 
-# New Album!
+# New Album
 
--   Available July 2024
--   Pre-order here
+-   LP Available July 2024
+    -   Pre-order here
+-   First Single: Borrowed Time
+    -   Video
+-   Back us on Bandcamp
