@@ -1,3 +1,9 @@
-# chrisdeaner.github.io
+# +/- {plus/minus} website
 
-Plus minus website
+### Running
+
+`bundle exec jekyll serve`
+
+### Deploying
+
+Push to main

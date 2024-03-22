@@ -7,8 +7,8 @@ layout: home
 
 # New Album
 
--   LP Available July 2024
+-   LP Available May 31, 2024!
     -   Pre-order here
 -   First Single: Borrowed Time
-    -   Video
--   Back us on Bandcamp
+    -   [Check out the Video!](https://youtu.be/UJKDO7uQCeM)
+-   Back us on [Bandcamp](https://plusminusnyc.bandcamp.com/)
