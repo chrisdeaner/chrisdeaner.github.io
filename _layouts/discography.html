@@ -6,10 +6,10 @@ title: Discography
 <div id="discography">
 	{{ content }} {%- if site.posts.size > 0 -%}
 	<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-	<ul class="post-list">
+	<div class="post-list">
 		{% assign discography = site.posts | where: "tags", "discography" %} {%-
 		for post in discography -%}
-		<li>
+		<div class="release-container">
 			<div>
 				<a class="post-link" href="{{ post.url | relative_url }}">
 					<img src="{{ post.image_url }}" class="release-thumb" />
@@ -21,8 +21,8 @@ title: Discography
 				</a>
 			</div>
 			{%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
-		</li>
+		</div>
 		{%- endfor -%}
-	</ul>
+	</div>
 	{%- endif -%}
 </div>

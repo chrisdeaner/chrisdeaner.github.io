@@ -4,11 +4,13 @@ image_url: "/assets/img/Summer2019ExtendedPlay500.jpg"
 title: "Summer 2019 : Extended Play (2019)"
 date: 2024-01-06 20:30:54 -0500
 tags: discography
-permalink: /summer-2019/
+permalink: /summer-2019-ep/
 excerpt_separator: <!--more-->
 ---
 
 <!--more-->
+
+## Summer 2019 : Extended Play
 
 Ernest Jennings Record Company
 
