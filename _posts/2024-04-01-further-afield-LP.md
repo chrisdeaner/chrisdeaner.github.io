@@ -12,11 +12,32 @@ excerpt_separator: <!--more-->
 
 ## Further Afield
 
-Track Listing
+<div id="release-info">
+    Released June 4th 2024 on <a href="https://ejrc.com">Ernest Jennings Record Company</a>
+</div>
 
--   Intentionally Left Blank (2:36)
--   Borrowed Time (3:32)
-
-Credits: some credits if we want them
-
-![Summer EP](/assets/img/further-afield.png)
+<div id="container">
+    <div id="artwork">
+        <a href="/assets/img/fa.jpg" alt="Full res version"><img src="/assets/img/fa.jpg"/></a>
+        <div id="buy-album-btn">
+            <div class="button-sm">
+                <a href="/store/#further-afield">Buy</a>
+            </div>
+        </div>
+    </div>
+    <div id="tracklist">
+        <h4>Track Listing</h4>
+        <ol>
+            <li>Intentionally Left Blank</li>
+            <li>Borrowed Time</li>
+            <li>Gondolier</li>
+            <li>Driving Aimlessly (Redux)</li>
+            <li>Where I Hope We Get Lost</li>
+            <li>The Pull from Both Sides</li>
+            <li>Calling Off the Rescue</li>
+            <li>Contempt</li>
+            <li>Redrawn</li>
+            <li>Is It Over Now</li>
+        </ol>
+    </div>
+</div>

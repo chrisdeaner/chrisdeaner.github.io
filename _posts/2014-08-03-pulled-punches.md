@@ -12,32 +12,41 @@ excerpt_separator: <!--more-->
 
 ## Pulled Punches
 
-Teanbeat
+<div id="release-info">
+    Released October 5th 2010 on <a href="https://teenbeat.net">Teenbeat Records</a>
+</div>
 
-Released: October 5, 2010
-
-Track Listing
-
--   01 "She's So Lost"
--   02 "Waking Up is Hard To Do"
--   03 "Pencil Me In"
--   04 "All Dead, All Dead"
--   05 "For You [Alternate]"
--   06 "Back and Forth"
--   07 "Walk in a Straight Line"
--   08 "Hellkite"
--   09 "Knead 2010"
--   10 "All I Ever Knew"
--   11 "Summerlong"
--   12 "Chromatic"
--   13 "You Are Here"
--   14 "Underfoot"
--   15 "All the Things She Does"
--   16 "Jack Nicolson"
--   17 "If I am Charming"
--   18 "Reeling in the Years"
--   19 "Camouflage Fades into Trust"
-
-Credits: some credits if we want them
-
-![Summer EP](/assets/img/pp.jpg)
+<div id="container">
+    <div id="artwork">
+        <a href="/assets/img/pp.jpg" alt="Full res version"><img src="/assets/img/pp.jpg"/></a>
+        <div id="buy-album-btn">
+            <div class="button-sm">
+                <a href="/store/#pulled-punches">Buy</a>
+            </div>
+        </div>
+    </div>
+    <div id="tracklist">
+        <h4>Track Listing (<a href="/lyrics/#pulled-punches-album">Lyrics</a>)</h4>
+        <ol>
+            <li>She's So Lost</li>
+            <li>Waking Up is Hard To Do</li>
+            <li>Pencil Me In</li>
+            <li>All Dead, All Dead</li>
+            <li>For You [Alternate]</li>
+            <li>Back and Forth</li>
+            <li>Walk in a Straight Line</li>
+            <li>Hellkite</li>
+            <li>Knead 2010</li>
+            <li>All I Ever Knew</li>
+            <li>Summerlong</li>
+            <li>Chromatic</li>
+            <li>You Are Here</li>
+            <li>Underfoot</li>
+            <li>All the Things She Does</li>
+            <li>Jack Nicolson</li>
+            <li>If I am Charming</li>
+            <li>Reeling in the Years</li>
+            <li>Camouflage Fades into Trust</li>
+        </ol>
+    </div>
+</div>
