@@ -1,10 +1,6 @@
 ---
 layout: press
-title: "testing unlinked page"
-date: 2024-03-20 20:30:54 -0500
-tags: nothing
 permalink: /press/
-excerpt_separator: <!--more-->
 ---
 
 Images for press [here](/assets/press/Press-032224.zip)

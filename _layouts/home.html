@@ -9,7 +9,7 @@ layout: default
 	</div>
 
 	<div class="news">
-		<ul class="post-list" style="padding-top: 20px">
+		<ul class="post-list">
 			{% assign news = site.posts | where: "tags", "news" %} {%- for post
 			in news -%}
 			<li>

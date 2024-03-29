@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
         <a href="/assets/img/fa.jpg" alt="Full res version"><img src="/assets/img/fa.jpg"/></a>
         <div id="buy-album-btn">
             <div class="button-sm">
-                <a href="/store/#further-afield">Buy</a>
+                <a href="/store/#further-afield">Buy It</a>
             </div>
         </div>
     </div>

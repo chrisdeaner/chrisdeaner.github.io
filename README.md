@@ -6,4 +6,4 @@
 
 ### Deploying
 
-Push to main
+Push to main. CI via Github Actions.

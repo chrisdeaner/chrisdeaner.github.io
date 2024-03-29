@@ -2,7 +2,79 @@
 layout: default
 ---
 
-<div class="store">
+<div id="store">
 	<h2>Store</h2>
 	{{ content }}
+	<div class="items">
+		<ul class="post-list">
+			{% assign products = site.posts | where: "tags", "product" %} {%-
+			for post in products -%}
+			<li>
+				<h3>
+					<a class="post-link" href="{{ post.detail_page }}">
+						{{ post.title | escape }}
+					</a>
+				</h3>
+				<div class="container">
+					<div class="image">
+						<img src="{{post.image}}" />
+					</div>
+					<div class="content-container">
+						<div class="content">{{ post.content }}</div>
+						<div class="price">
+							${{post.price}}
+							<form
+								target="paypal"
+								action="https://www.paypal.com/cgi-bin/webscr"
+								method="post"
+							>
+								<button>Add To Cart</button>
+								<input type="hidden" name="add" value="1" />
+								<input type="hidden" name="cmd" value="_cart" />
+								<input
+									type="hidden"
+									name="business"
+									value="plusminus@plusmin.us"
+								/>
+								<input
+									type="hidden"
+									name="item_name"
+									value="{{post.item_name}}"
+								/>
+								<input
+									type="hidden"
+									name="item_number"
+									value="post.item_number"
+								/>
+								<input
+									type="hidden"
+									name="amount"
+									value="{{post.price}}"
+								/>
+								<input
+									type="hidden"
+									name="no_shipping"
+									value="2"
+								/>
+								<input type="hidden" name="no_note" value="1" />
+								<input
+									type="hidden"
+									name="currency_code"
+									value="USD"
+								/>
+								<input type="hidden" name="lc" value="US" />
+								<input
+									type="hidden"
+									name="bn"
+									value="PP-ShopCartBF"
+								/>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="others">{{post.others}}</div>
+			</li>
+			{%- endfor -%}
+		</ul>
+	</div>
 </div>
