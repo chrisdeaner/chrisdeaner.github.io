@@ -8,6 +8,14 @@ button {
 	cursor: pointer;
 }
 
+#mail-list {
+	margin-top: -1.5px;
+	margin-right: 4px;
+	a {
+		color: #828282;
+	}
+}
+
 .wrapper {
 	/* override default style for this template */
 	max-width: calc(900px - (30px * 2));
