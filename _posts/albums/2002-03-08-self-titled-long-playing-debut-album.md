@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/stlpda.jpg"
+image_url: "/assets/img/stlpda-alt.jpg"
 title: "Self Titled Long Playing Debut Album (2002)"
 date: 2002-03-08 20:30:54 -0500
 tags: discography
@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 
 <div id="container">
     <div id="artwork">
-        <a href="/assets/img/stlpda.jpg" alt="Full res version"><img src="/assets/img/stlpda.jpg"/></a>
+        <a href="/assets/img/stlpda-alt.jpg" alt="Full res version"><img src="/assets/img/stlpda-alt.jpg"/></a>
         <div id="buy-album-btn">
             <div class="button-sm">
                 <a href="/store/#self-titled-long-playing-debut-album-cd">Buy It</a>

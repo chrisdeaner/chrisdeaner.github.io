@@ -218,26 +218,7 @@ Hey, I've got some good years left
 I hope someday you'll truly understand  
 I could still be everything that you said.
 
-#### A Million Pieces on the Ground
-
-At the bottom of your ocean  
-In the midst the commotion  
-I was diving in your sea  
-With a knife in between my teeth
-
-In a barrel over the falls  
-It occured to me why you jumped  
-You're better off where you are  
-Seems my paddle was your arm
-
-Now I'm sailing through the air  
-No one has to trust me here  
-Nothing is a could have been  
-Nowhere safe for me to land  
-Now I'm floating back to earth  
-Hurtling on my return  
-When my body touches down  
-A million pieces on the ground.
+<h3 id="as-seen-on-television-album">As Seen on Television</h3>
 
 #### All I Ever Knew
 
@@ -312,6 +293,27 @@ I won't complain
 Forward march  
 I've got my home  
 It's easy.
+
+#### A Million Pieces on the Ground
+
+At the bottom of your ocean  
+In the midst the commotion  
+I was diving in your sea  
+With a knife in between my teeth
+
+In a barrel over the falls  
+It occured to me why you jumped  
+You're better off where you are  
+Seems my paddle was your arm
+
+Now I'm sailing through the air  
+No one has to trust me here  
+Nothing is a could have been  
+Nowhere safe for me to land  
+Now I'm floating back to earth  
+Hurtling on my return  
+When my body touches down  
+A million pieces on the ground.
 
 <h3 id="holding-patterns-album">Holding Patterns</h3>
 
