@@ -10,14 +10,16 @@ layout: default
 			{% assign products = site.posts | where: "tags", "product" %} {%-
 			for post in products -%}
 			<li>
-				<h3>
+				<h3 id="{{post.title | slugify }}">
 					<a class="post-link" href="{{ post.detail_page }}">
 						{{ post.title | escape }}
 					</a>
 				</h3>
 				<div class="container">
 					<div class="image">
-						<img src="{{post.image}}" />
+						<a href="{{post.image}}"
+							><img src="{{post.image}}"
+						/></a>
 					</div>
 					<div class="content-container">
 						<div class="content">{{ post.content }}</div>

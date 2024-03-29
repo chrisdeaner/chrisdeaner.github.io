@@ -9,7 +9,6 @@ price: "18.88"
 item_number: 021
 item_name: "Further Afield Vinyl"
 item_type: "Vinyl"
-diabled: true
 others:
     'Also available at EJRC, <a
     href="https://plusminusnyc.bandcamp.com/album/jumping-the-tracks">Bandcamp</a>,
