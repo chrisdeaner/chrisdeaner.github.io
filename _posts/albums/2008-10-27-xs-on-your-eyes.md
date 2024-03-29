@@ -19,6 +19,11 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="artwork">
         <a href="/assets/img/xoye.jpg" alt="Full res version"><img src="/assets/img/xoye.jpg"/></a>
+        <div id="buy-album-btn">
+            <div class="button-sm">
+                <a href="/store/#xs-on-your-eyes-cd">Buy It</a>
+            </div>
+        </div>
     </div>
     <div id="tracklist">
         <h4>Track Listing (<a href="/lyrics/#xs-on-your-eyes-album">Lyrics</a>)</h4>
