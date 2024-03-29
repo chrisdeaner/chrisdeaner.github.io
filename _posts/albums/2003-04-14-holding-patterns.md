@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
         </div>
     </div>
     <div id="tracklist">
-        <h4>Track Listing</h4>
+        <h4>Track Listing (<a href="/lyrics/#holding-patterns-album">Lyrics</a>)</h4>
         <ol>
             <li>I've Been Lost</li>
             <li>Trapped Under Ice Floes</li>

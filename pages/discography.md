@@ -2,6 +2,5 @@
 layout: discography
 title: Discography
 permalink: /discography/
+list_title: Discography
 ---
-
-<div style="color:white">hamburbur.</div>
