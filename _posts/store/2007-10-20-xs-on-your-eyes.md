@@ -6,8 +6,8 @@ tags: product
 detail_page: "/xs-on-your-eyes/"
 image: "/assets/img/xoye.jpg"
 price: "12.00"
-item_number: 021
-item_name: "Xs onyour Eyes CD"
+item_number: "010"
+item_name: "Xs on your Eyes CD"
 item_type: "CD"
 others: ""
 ---
