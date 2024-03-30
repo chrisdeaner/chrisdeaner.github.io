@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Holding Patterns CD"
+title: "Holding Patterns [CD]"
 date: 2003-04-14 20:30:54 -0500
 tags: product
 detail_page: "/holding-patterns/"
 image: "/assets/img/hp.jpg"
 price: "10.00"
 item_number: "012"
-item_name: "Holding Patterns CD"
+item_name: "Holding Patterns [CD]"
 item_type: "CD"
 others:
     'Also available at <a

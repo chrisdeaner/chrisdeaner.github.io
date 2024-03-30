@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/further-afield.png"
+image_url: "/assets/img/fa.jpg"
 title: "Further Afield (2024)"
 date: 2024-01-06 20:30:54 -0500
 tags: discography

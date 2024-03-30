@@ -69,10 +69,29 @@ button {
 	}
 }
 
-#shows {
-	#month {
-		padding-top: 20px;
-		font-weight: 500;
+.shows {
+	h2 {
+		margin-bottom: 0;
+	}
+	#container {
+		#month {
+			padding-top: 20px;
+			font-weight: 150;
+		}
+		#show {
+			font-size: 14px;
+		}
+		#previous {
+			h2 {
+				margin-bottom: 0;
+				margin-top: 20px;
+				color: #1756a9;
+				font-weight: 600;
+			}
+		}
+		.past {
+			opacity: 60%;
+		}
 	}
 }
 
@@ -141,6 +160,7 @@ button {
 		}
 		img {
 			cursor: zoom-in;
+			border-radius: 5px;
 		}
 		li {
 			list-style: decimal-leading-zero;
@@ -159,6 +179,9 @@ button {
 		width: 30.5%;
 		.post-link {
 			font-size: 12px;
+		}
+		.release-thumb {
+			border-radius: 7px;
 		}
 	}
 	.post-link {
