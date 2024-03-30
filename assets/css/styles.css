@@ -143,27 +143,35 @@ button {
 		h4 {
 			font-weight: 600;
 		}
+
+		#album-info {
+			margin-bottom: 40px;
+		}
 		#buy-album-btn {
 			display: inline-block;
 			margin-top: 5px;
 		}
 		#release-info {
 			font-style: italic;
-			margin-bottom: 20px;
+			margin-bottom: 10px;
 		}
 		#container {
-			display: flex;
-			#artwork {
-				margin-right: 40px;
-				width: 60%;
+			margin-bottom: 40px;
+			#release-container {
+				display: flex;
+				#artwork {
+					margin-right: 40px;
+					width: 60%;
+				}
 			}
-		}
-		img {
-			cursor: zoom-in;
-			border-radius: 5px;
-		}
-		li {
-			list-style: decimal-leading-zero;
+			img {
+				cursor: zoom-in;
+				border-radius: 5px;
+				width: -webkit-fill-available;
+			}
+			li {
+				list-style: decimal-leading-zero;
+			}
 		}
 	}
 }
