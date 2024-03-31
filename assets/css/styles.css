@@ -145,6 +145,10 @@ button {
 		display: block;
 		padding-bottom: 20px;
 	}
+
+	.video-container {
+		padding-bottom: 20px;
+	}
 }
 
 #album {
