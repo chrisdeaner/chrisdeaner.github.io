@@ -15,10 +15,10 @@ our [here](https://youtu.be/UJKDO7uQCeM).
 
 The video was shot in near total darkness on a Pixel 7 Pro using the
 astrophotography mode. We discovered this mode while shooting photos on the
-beach in Montauk in the early hours (3am) the late of Chris' birthday. The look
-of the resulting loops were quick unique, and so we set up to make an entire
-video comprised of these shots. It took quite a while though, as each second of
-video took nearly 4 mins to shoot.
+beach in Montauk in the early hours (3am) of Chris' birthday. The look of the
+resulting loops were quite unique, and so we set out to make an entire video
+comprised of these shots. It took quite a while though, as each second of video
+took nearly 4 mins to shoot.
 
 Check out the video below:
 
