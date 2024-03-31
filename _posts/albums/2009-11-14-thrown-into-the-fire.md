@@ -17,18 +17,20 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="container">
-    <div id="artwork">
-        <a href="/assets/img/titf.jpg" alt="Full res version"><img src="/assets/img/titf.jpg"/></a>
-    </div>
-    <div id="tracklist">
-        <h4>Track Listing</h4>
-        <ol>
-            <li>Thrown into the Fire</li>
-            <li>For You (alternate version)</li>
-            <li>Underfoot</li>
-            <li>All Dead, All Dead</li>
-            <li>Catch The Wind</li>
-            <li>Iru Iranai</li>
-        </ol>
+    <div id="release-container">
+        <div id="artwork">
+            <a href="/assets/img/titf.jpg" alt="Full res version"><img src="/assets/img/titf.jpg"/></a>
+        </div>
+        <div id="tracklist">
+            <h4>Track Listing</h4>
+            <ol>
+                <li>Thrown into the Fire</li>
+                <li>For You (alternate version)</li>
+                <li>Underfoot</li>
+                <li>All Dead, All Dead</li>
+                <li>Catch The Wind</li>
+                <li>Iru Iranai</li>
+            </ol>
+        </div>
     </div>
 </div>

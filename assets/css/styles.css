@@ -138,6 +138,15 @@ button {
 	}
 }
 
+.post {
+	#news-image {
+		margin: auto;
+		width: 40%;
+		display: block;
+		padding-bottom: 20px;
+	}
+}
+
 #album {
 	.post-content {
 		h4 {

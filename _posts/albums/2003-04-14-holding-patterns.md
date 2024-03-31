@@ -17,22 +17,24 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="container">
-    <div id="artwork">
-        <a href="/assets/img/hp.jpg" alt="Full res version"><img src="/assets/img/hp.jpg"/></a>
-        <div id="buy-album-btn">
-            <div class="button-sm">
-                <a href="/store/#holding-patterns">Buy It</a>
+    <div id="release-container">
+        <div id="artwork">
+            <a href="/assets/img/hp.jpg" alt="Full res version"><img src="/assets/img/hp.jpg"/></a>
+            <div id="buy-album-btn">
+                <div class="button-sm">
+                    <a href="/store/#holding-patterns">Buy It</a>
+                </div>
             </div>
         </div>
-    </div>
-    <div id="tracklist">
-        <h4>Track Listing (<a href="/lyrics/#holding-patterns-album">Lyrics</a>)</h4>
-        <ol>
-            <li>I've Been Lost</li>
-            <li>Trapped Under Ice Floes</li>
-            <li>Far Into the Fields</li>
-            <li>You've Just Got It All</li>
-            <li>Making the Horse Drink</li>
-        </ol>
+        <div id="tracklist">
+            <h4>Track Listing (<a href="/lyrics/#holding-patterns-album">Lyrics</a>)</h4>
+            <ol>
+                <li>I've Been Lost</li>
+                <li>Trapped Under Ice Floes</li>
+                <li>Far Into the Fields</li>
+                <li>You've Just Got It All</li>
+                <li>Making the Horse Drink</li>
+            </ol>
+        </div>
     </div>
 </div>

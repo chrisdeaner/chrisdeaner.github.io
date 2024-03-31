@@ -17,18 +17,20 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="container">
-    <div id="artwork">
-        <a href="/assets/img/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/pmvsbtb.jpg"/></a>
-    </div>
-    <div id="tracklist">
-        <h4>Track Listing</h4>
-        <ol>
-            <li>Banging The Drum</li>
-            <li>Waking Up is Hard to Do</li>
-            <li>Gokigen Ikaga</li>
-            <li>I've Been Lost</li>
-            <li>Yamaha-1</li>
-            <li>Chromatic</li>
-        </ol>
+    <div id="release-container">
+        <div id="artwork">
+            <a href="/assets/img/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/pmvsbtb.jpg"/></a>
+        </div>
+        <div id="tracklist">
+            <h4>Track Listing</h4>
+            <ol>
+                <li>Banging The Drum</li>
+                <li>Waking Up is Hard to Do</li>
+                <li>Gokigen Ikaga</li>
+                <li>I've Been Lost</li>
+                <li>Yamaha-1</li>
+                <li>Chromatic</li>
+            </ol>
+        </div>
     </div>
 </div>
