@@ -49,12 +49,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/xoye.jpg" alt="Full res version"><img src="/assets/img/xoye.jpg"/></a>
-            <div id="buy-album-btn">
-                <div class="button-sm">
-                    <a href="/store/#xs-on-your-eyes-cd">Buy It</a>
-                </div>
-            </div>
+            <a href="/assets/img/xoye-jp.jpg" alt="Full res version"><img src="/assets/img/xoye-jp.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#xs-on-your-eyes-album">Lyrics</a>)</h4>
@@ -82,11 +77,6 @@ excerpt_separator: <!--more-->
     <div id="release-container">
         <div id="artwork">
             <a href="/assets/img/xoye.jpg" alt="Full res version"><img src="/assets/img/xoye.jpg"/></a>
-            <div id="buy-album-btn">
-                <div class="button-sm">
-                    <a href="/store/#xs-on-your-eyes-cd">Buy It</a>
-                </div>
-            </div>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#xs-on-your-eyes-album">Lyrics</a>)</h4>
