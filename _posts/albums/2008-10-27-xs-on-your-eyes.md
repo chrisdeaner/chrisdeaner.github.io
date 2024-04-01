@@ -65,7 +65,7 @@ excerpt_separator: <!--more-->
                 <li>You’ll Catch Your Death</li>
                 <li>Xs on Your Eyes</li>
                 <li>Flight Data Recorder</li>
-                <li>Reeling in the Years (bonus</li>
+                <li>Reeling in the Years (bonus)</li>
             </ol>
         </div>
     </div>
