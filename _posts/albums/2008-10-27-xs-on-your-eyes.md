@@ -76,7 +76,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/xoye.jpg" alt="Full res version"><img src="/assets/img/xoye.jpg"/></a>
+            <a href="/assets/img/xoye-eu.jpg" alt="Full res version"><img src="/assets/img/xoye-eu.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#xs-on-your-eyes-album">Lyrics</a>)</h4>
