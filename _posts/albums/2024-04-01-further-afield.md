@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
             </div>
         </div>
         <div id="tracklist">
-            <h4>Track Listing</h4>
+            <h4>Track Listing (<a href="/lyrics/#further-afield-album">Lyrics</a>)</h4>
             <ol>
                 <li>Intentionally Left Blank</li>
                 <li>Borrowed Time</li>
