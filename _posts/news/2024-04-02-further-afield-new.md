@@ -6,16 +6,15 @@ tags: news
 excerpt_separator: <!--more-->
 ---
 
-We have some exciting new to share! On May 31st, 2024 our sixth full-length
-release will be available. Further Afield is our first LP in a decade. It
-contains many of the hallmarks of +/- {Plus/Minus} album, but we like to think
-that this release is unique in its more light hearted, almost dancy approach.
+We have some exciting new to share! On May 31st, 2024, we will be releasing our
+sixth full-length album, [Further Afield](/further-afield/), our first LP in a decade. We think it's 
+our best yet! It contains many of the hallmarks of a +/- {Plus/Minus} album, but, as always,
+we're exploring new (for us) territory. Buckle up!
 Pre-Order [here](https://ernestjenning.limitedrun.com/products/778312)
 
 <!--more-->
 
-We are excited to announce the release of our latest full-length effort:
-[Further Afield](/further-afield/), available May 31 2024.
+We've got a new album! [Further Afield](/further-afield/), available May 31 2024.
 
 <div id="news-image">
     <img src="/assets/img/fa.jpg"/>
