@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/hp-jp.jpg"
+image_url: "/assets/img/hp.jpg"
 title: "Holding Patterns (2003)"
 date: 2003-04-14 20:30:54 -0500
 tags: discography
