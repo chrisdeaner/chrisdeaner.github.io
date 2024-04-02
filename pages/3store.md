@@ -6,7 +6,7 @@ permalink: /store/
 
 You can purchase from us, or follow links to labels and platforms that offer our
 music. When you buy straight from us or our labels, a larger percentage of your
-purchase will go directly to the band. We use paypal to fulfill orders.
+purchase will go directly to the band. We use PayPal to fulfill orders.
 
 If you don't see something listed here, make sure to check the online stores for
-Earnest Jenning Record Co or Teenbeat Records.
+Ernest Jenning Record Co or Teenbeat Records.
