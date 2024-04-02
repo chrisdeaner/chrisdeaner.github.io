@@ -27,11 +27,24 @@ excerpt_separator: <!--more-->
             </div>
         </div>
         <div id="tracklist">
-            <h4>Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
+            <h4>Vinyl Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
             <ol>
                 <li>Young Once</li>
                 <li>The Bitterest Pill</li>
+                <li>Toe the Line</li>
+                <li>The Space Between Us</li>
+                <li>Exorcising Your Ghost</li>
+                <li>Rewrite the Story</li>
+                <li>There Goes My Love</li>
+                <li>Running the Distance</li>
+                <li>What Lies Ahead</li>
+            </ol>
+        </div>
+        <div id="tracklist">
+            <h4>Download Card Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
+            <ol>
                 <li>Young Once</li>
+                <li>The Bitterest Pill</li>
                 <li>Toe the Line</li>
                 <li>The Space Between Us</li>
                 <li>What Lies Ahead</li>
