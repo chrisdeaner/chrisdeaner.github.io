@@ -44,7 +44,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    <b>Japanese CD Release</b>. Releasing May 31st, 2024 on <a href="http://7ep.net/">7ep Records</a> Japan.
+    <b>Japanese CD Release</b>. Releasing May 31st, 2024 on <a href="http://7ep.net/">7ep</a> Japan.
 </div>
 <div id="container">
     <div id="release-container">
