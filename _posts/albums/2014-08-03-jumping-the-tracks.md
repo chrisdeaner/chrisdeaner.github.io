@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Jumping the Tracks
 
 <div id="release-info">
-    <b>General Vinyl Release</b>. Released October 5th 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
+    <b>General Vinyl Release</b>. Released October 5th, 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
 </div>
 
 <div id="container">
@@ -42,7 +42,7 @@ excerpt_separator: <!--more-->
     </div>
 </div>
 <div id="release-info">
-    <b>General Streaming/Download Release</b>. Released October 5th 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
+    <b>General Streaming/Download Release</b>. Released October 5th, 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
 </div>
 
 <div id="container">
@@ -72,7 +72,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    <b>Japanese CD Release</b>. Released October 5th 2014 on & Records Japan.
+    <b>Japanese CD Release</b>. Released October 5th, 2014 on & Records Japan.
 </div>
 
 <div id="container">
