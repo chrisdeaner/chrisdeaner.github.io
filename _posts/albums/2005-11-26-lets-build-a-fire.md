@@ -56,9 +56,9 @@ excerpt_separator: <!--more-->
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#lets-build-a-fire-album">Lyrics</a>)</h4>
             <ol>
-                <li>Let's Build a Fire"</li>
-                <li>Fadeout"</li>
-                <li>Steal the Blueprints"</li>
+                <li>Let's Build a Fire</li>
+                <li>Fadeout</li>
+                <li>Steal the Blueprints</li>
                 <li>The Important Thing is to Love</li>
                 <li>Summer Dress 2 (Iodine)</li>
                 <li>Ignoring All the Detours</li>
