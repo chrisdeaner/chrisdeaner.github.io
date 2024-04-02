@@ -61,7 +61,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    <b>Japanese CD Release</b>. Released October 5th 2014 on & Records Japan.</a>
+    <b>Japanese CD Release</b>. Released October 5th 2014 on & Records Japan.
 </div>
 
 <div id="container">
