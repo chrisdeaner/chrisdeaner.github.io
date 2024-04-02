@@ -315,29 +315,6 @@ Hurtling on my return
 When my body touches down  
 A million pieces on the ground.
 
-#### If I Am Charming
-
-Hey there honey pie  
-I'm begging, baby, please  
-For you to notice me  
-And be free of disease
-
-If I am charming  
-Will you take me home tonight?  
-I promise that I'll leave  
-Before you turn out the light I look to you  
-To validate my life  
-You are the cutest thing  
-in THIS bar tonight
-
-How many drinks will I have to buy  
-to figure out I'm not that kind of guy?
-
-Do you ever feel  
-like you're life is dictated by impossible ideals?  
-Do you ever find  
-You left the important things behind?
-
 <h3 id="holding-patterns-album">Holding Patterns</h3>
 
 #### I've Been Lost
@@ -1705,6 +1682,29 @@ I want to be an optimistic person
 I want to pick up where the last time I reversed
 
 So let's go!
+
+#### If I Am Charming
+
+Hey there honey pie  
+I'm begging, baby, please  
+For you to notice me  
+And be free of disease
+
+If I am charming  
+Will you take me home tonight?  
+I promise that I'll leave  
+Before you turn out the light I look to you  
+To validate my life  
+You are the cutest thing  
+in THIS bar tonight
+
+How many drinks will I have to buy  
+to figure out I'm not that kind of guy?
+
+Do you ever feel  
+like you're life is dictated by impossible ideals?  
+Do you ever find  
+You left the important things behind?  
 
 <h3 id="jumping-the-tracks-album">Jumping the Tracks</h3>
 
