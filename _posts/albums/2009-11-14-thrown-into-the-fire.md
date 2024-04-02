@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Thrown into the Fire
 
 <div id="release-info">
-    Released November 15th, 2009 on & Records
+    Released November 15th, 2009 on & Records Japan.
 </div>
 
 <div id="container">
