@@ -344,9 +344,7 @@ I've been lost
 Not the only one  
 Ready to come down.
 
-#### Trapped Under Ice
-
-Floes
+#### Trapped Under Ice Floes
 
 So stuck inside  
 No bars are on the windows  
@@ -2080,3 +2078,102 @@ Leaves a stain on us
 
 Lately I've been a cauldron  
 Slowing stewing on low
+
+<h3 id="summer-2019-extended-play-album">Summer 2019 : Extended Play</h3>
+
+#### You Are One
+
+You’re waiting forever  
+It’s not gonna find you  
+And all your obsessions  
+Are not gonna blind you  
+
+You are one  
+When you are gone  
+You are gone  
+When you are one  
+
+#### Driving Aimlessly
+
+You don’t know me  
+From a hole in the wall  
+Let’s make some noise ‘til  
+They break down the door  
+You belong here with me  
+We’ll be lost and innocent  
+Could never see you alone  
+
+Say you want me  
+Sitting shotgun we’ll go  
+Driving aimlessly  
+While it’s twenty below  
+And we’ll be lost in the waves  
+We’ll be lost and innocent  
+Could never see alone  
+
+Am I too late  
+Our hearts awake  
+When you wait  
+You sink down  
+
+Don’t let me down  
+In your heart  
+
+#### Drawn Into the Sun
+
+Open up and step inside  
+to never realize  
+Everything that was dragging you down  
+Can’t leave it all behind  
+
+Free to roam out on your own  
+And never breaking stride  
+A prisoner behind your eyes  
+Even though they’re open wide  
+
+You were drawn into the sun  
+Just a ghost inside  
+Never cast aside  
+Calling out to everyone  
+You were lost to time  
+In the blink of an eye  
+
+Wading through the rolling waves  
+And never breaking stride  
+Feel the pull into the sea  
+And leave it all behind  
+
+You were drawn into the sun  
+Just a ghost inside  
+Never cast aside  
+Calling out to everyone  
+You were lost to time  
+In the blink of an eye  
+
+#### Sugarcane (Redux)
+
+You call for me now  
+I’m on standby  
+I’ll stay in line  
+My eyes are blind  
+
+And you knew you’d cause a landslide  
+For your sugarcane  
+Yeah you knew you’d cause a landslide  
+For your sugarcane  
+
+#### Safe Harbor
+
+You were walking down the street from side to side  
+Looking out for shooting stars to catch your eye  
+And the only thing you seem to see  
+Always fading out of view  
+
+A map drawn out to show where water flows  
+And everything seems overexposed  
+And the only thing you seem to feel  
+Is you don’t know what to do  
+
+There’s an island somewhere down beneath the clouds  
+Safe harbor in the fog if you come down  
+But the only thing that seems quite real  
