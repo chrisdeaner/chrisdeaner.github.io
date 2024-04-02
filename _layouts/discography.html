@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Discography
+title: "Discography"
 ---
 
 <div id="discography">
 	{{ content }} {%- if site.posts.size > 0 -%}
-	<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
 	<div class="post-list">
 		{% assign discography = site.posts | where: "tags", "discography" %} {%-
 		for post in discography -%}
