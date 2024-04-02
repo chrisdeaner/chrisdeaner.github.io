@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# New Album
+# Further Afield - coming soon!
 
 -   LP Available May 31, 2024!
     -   [Pre-order from EJRC here](https://ernestjenning.limitedrun.com/products/778312)
