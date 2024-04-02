@@ -24,9 +24,9 @@ excerpt_separator: <!--more-->
         <div id="tracklist">
             <h4>Track Listing</h4>
             <ol>
-                <li>Just let it Pass</li>
-                <li>Single Lens Reflex</li>
-                <li>Unwind</li>
+                <li>Isolation 01: Just let it Pass</li>
+                <li>Isolation 02: Single Lens Reflex</li>
+                <li>Isolation 03: Unwind</li>
             </ol>
         </div>
     </div>
