@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Pulled Punches
 
 <div id="release-info">
-    Released October 5th 2010 on <a href="https://teenbeat.net">Teenbeat Records</a>
+    Released October 5th, 2010 on <a href="https://teenbeat.net">Teenbeat Records</a>
 </div>
 
 <div id="container">
