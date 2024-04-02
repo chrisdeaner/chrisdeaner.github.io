@@ -72,7 +72,7 @@ excerpt_separator: <!--more-->
 </div>
 <div id="container">
     <div id="release-info">
-        <b>European Release (CD & Vinyl)</b>. Released October 15th, 2008 on BBIsland Records
+        <b>European Release (CD & Vinyl)</b>. Released October 15th, 2008 on BBIsland Records Germany.
     </div>
     <div id="release-container">
         <div id="artwork">

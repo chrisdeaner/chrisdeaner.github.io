@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/yah-us.jpg"
+image_url: "/assets/img/yah-us1.jpg"
 title: "You are Here (2003)"
 date: 2003-10-27 20:30:54 -0500
 tags: discography
@@ -129,7 +129,7 @@ excerpt_separator: <!--more-->
 </div>
 <div id="container">
     <div id="release-info">
-        <b>European Extended CD Release</b>. Released ????? on BB Island Records
+        <b>European Extended CD Release</b>. Released on BB Island Records Germany.
     </div>
     <div id="release-container">
         <div id="artwork">

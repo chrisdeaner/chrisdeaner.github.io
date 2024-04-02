@@ -1,40 +1,38 @@
 ---
 layout: page
-title: "Further Afield"
-date: 2024-03-29 20:30:54 -0500
+title: "Further Afield coming soon!"
+date: 2024-04-02 10:31:00 -0500
 tags: news
 excerpt_separator: <!--more-->
 ---
 
-We have some exciting new to share! On May 31st, 2024 our latest full-length
-release will be available. Further Afield is our first LP in a decade. It
-contains many of the hallmarks of +/- {plus/minus} album, but we like to think
-that this release is unique in it's more light hearted, almost dancy approach.
+We have some exciting new to share! On May 31st, 2024, we will be releasing our
+sixth full-length album, [Further Afield](/further-afield/), our first LP in a decade. We think it's 
+our best yet! It contains many of the hallmarks of a +/- {Plus/Minus} album, but, as always,
+we're exploring new (for us) territory. Buckle up!
 Pre-Order [here](https://ernestjenning.limitedrun.com/products/778312)
 
 <!--more-->
 
-We are excited to announce the release of our latest full-length effort:
-[Further Afield](/further-afield/), available May 31 2024.
+We've got a new album! [Further Afield](/further-afield/), available May 31 2024.
 
 <div id="news-image">
     <img src="/assets/img/fa.jpg"/>
 </div>
 
-It’s been a while since our last full-length release,
-[Jumping the Tracks](/jumping-the-tracks/). That is in part because after
-releasing that album we decided to release material in smaller chunks; taking
-advantage of the ubiquity of streaming platforms and the ease of distribution.
-This resulted in our release of
-[Summer 2019: Extended Play in 2019](/summer-2019-ep). Shortly after that, we
-found ourselves isolated in our homes, along with everyone else, as we weathered
-the storm of the novel coronavirus. During that time, we kept writing and
-releasing a series of songs on YouTube (The Isolation Series:
-[Just Let it Pass](https://youtu.be/P_5gNopfRT4),
-[Unwind](https://youtu.be/Rb434w3SCnA),
-[Single Lens Reflex](https://youtu.be/IEitz9cUWHQ)) and made them available for
-purchase on Bandcamp on Juneteenth for a limited time, with proceeds going to
-the NAACP.
+Hey there! Long time no see. Let's catch up, shall we?  
+
+It’s been a while since our last full-length album,
+[Jumping the Tracks](/jumping-the-tracks/) was unleashed upon the world. After
+releasing that album, we were planning on releasing an EP every six months. Basically, 
+we had a planto keep releasing material as quickly as possible. Alas, this resulted 
+in... just one EP: [Summer 2019: Extended Play in 2019](/summer-2019-ep). As fate would have it, 
+COVID made our plan impossible. In order to keep writing, we met over Zoom over a number
+of cocktails and hatched a plan to continue writing and recording via sharing videos.
+This culminated in 3 songs that we released on YouTube and dubbed The Isolation Series:
+[Just Let it Pass](https://youtu.be/P_5gNopfRT4), [Single Lens Reflex](https://youtu.be/IEitz9cUWHQ), 
+and [Unwind](https://youtu.be/Rb434w3SCnA). Audio versions were released via Bandcamp
+to benefit Black Lives Matter and Campaign Zero.  
 
 While we were in part realizing our vision of releasing material in smaller
 amounts more quickly, we found ourselves missing the holistic consideration and
@@ -50,12 +48,17 @@ exception. Feeling the pressure of trying to release more material quickly, we
 went to a friend's beautiful house in Saratoga Springs, NY for a week in the
 fall of 2022 to complete the recording for the album. After that successful
 trip, We came back to Brooklyn and put the finishing touches on the album's
-songs. On a +/- {plus/minus} first, we outsourced the mixing. We chose to work
-with Ray Ketchem at [Magic Door Recording](https://www.magicdoorrecording.com/)
-and we are glad we did. With the album completed, we asked Mark Robinson at
-[Teen-Beat Graphica](https://mmarkk.com/) to design the album as he has all of
-our other releases, and love the results (again).
+songs. To give it a different twise, we outsourced the mixing for the first time ever. 
+We chose to work with Ray Ketchem at [Magic Door Recording](https://www.magicdoorrecording.com/)
+and we are sure are glad we did. With the album completed, we asked our old friend and
+mentor Mark Robinson at [Teen-Beat Graphica](https://mmarkk.com/) to design the album, as he has all of
+our other releases, and we love the results (again).
 
-Further Afield will be released on Ernest Jenning Record Co and available on all
+Further Afield will be released on Ernest Jenning Record Co and will be available on all
 the streaming platforms, Bandcamp, and vinyl. You can pre-order the vinyl
-[here](https://ernestjenning.limitedrun.com/products/778312).
+[here](https://ernestjenning.limitedrun.com/products/778312).  It will also be available on CD
+with the songs from our EP, [Summer 2019: Extended Play](/summer-2019-ep/) included as a
+bonus.  
+
+It's nice to be back.  Talk soon.
++/-

@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Jumping the Tracks
 
 <div id="release-info">
-    <b>General Vinyl Release</b>. Released October 5th 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
+    <b>General Vinyl Release</b>. Released October 5th, 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
 </div>
 
 <div id="container">
@@ -27,7 +27,7 @@ excerpt_separator: <!--more-->
             </div>
         </div>
         <div id="tracklist">
-            <h4>Vinyl Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
+            <h4>Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
             <ol>
                 <li>Young Once</li>
                 <li>The Bitterest Pill</li>
@@ -39,11 +39,23 @@ excerpt_separator: <!--more-->
                 <li>What Lies Ahead</li>
             </ol>
         </div>
+    </div>
+</div>
+<div id="release-info">
+    <b>General Streaming/Download Release</b>. Released October 5th, 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
+</div>
+
+<div id="container">
+    <div id="release-container">
+        <div id="artwork">
+            <a href="/assets/img/jtt.jpg" alt="Full res version"><img src="/assets/img/jtt.jpg"/></a>
+        </div>
         <div id="tracklist">
-            <h4>Download Card Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
+            <h4>Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
             <ol>
                 <li>Young Once</li>
                 <li>The Bitterest Pill</li>
+                <li>Young Once</li>
                 <li>Toe the Line</li>
                 <li>The Space Between Us</li>
                 <li>What Lies Ahead</li>
@@ -60,7 +72,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    <b>Japanese CD Release</b>. Released October 5th 2014 on & Records Japan.
+    <b>Japanese CD Release</b>. Released October 5th, 2014 on & Records Japan.
 </div>
 
 <div id="container">
