@@ -26,7 +26,7 @@ It’s been a while since our last full-length album,
 [Jumping the Tracks](/jumping-the-tracks/) was unleashed upon the world. After
 releasing that album, we were planning on releasing an EP every six months. Basically, 
 we had a planto keep releasing material as quickly as possible. Alas, this resulted 
-in... just one EP: [Summer 2019: Extended Play in 2019](/summer-2019-ep). As fate would have it, 
+in... just one EP: [Summer 2019: Extended Play](/summer-2019-ep). As fate would have it, 
 COVID made our plan impossible. In order to keep writing, we met over Zoom over a number
 of cocktails and hatched a plan to continue writing and recording via sharing videos.
 This culminated in 3 songs that we released on YouTube and dubbed The Isolation Series:
