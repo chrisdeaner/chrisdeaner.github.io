@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Further Afield
 
 <div id="release-info">
-    Holiday single released December 1st 2022 on <a href="https://ejrc.com">Ernest Jennings Record Company</a>.
+    Holiday single released December 1st 2022 on <a href="https://ejrc.com">Ernest Jenning Record Co</a>.
 </div>
 
 <div id="container">

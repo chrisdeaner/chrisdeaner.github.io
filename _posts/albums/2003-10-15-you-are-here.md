@@ -23,11 +23,6 @@ excerpt_separator: <!--more-->
     <div id="release-container">
         <div id="artwork">
             <a href="/assets/img/yah-us.jpg" alt="Full res version"><img src="/assets/img/yah-us.jpg"/></a>
-            <div id="buy-album-btn">
-                <div class="button-sm">
-                    <a href="/store/#you-are-here-vinyl">Buy It</a>
-                </div>
-            </div>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#you-are-here-album">Lyrics</a>)</h4>

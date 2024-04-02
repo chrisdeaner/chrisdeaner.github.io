@@ -232,3 +232,23 @@ button {
 		padding-top: 20px;
 	}
 }
+
+.contact {
+	h2 {
+		margin-top: 50px;
+		padding: 8px;
+		border-radius: 4px;
+	}
+	#mailing-list {
+		background-color: #aa2125;
+		color: white;
+	}
+	#reach-out-directly {
+		background-color: #217cc2;
+		color: white;
+	}
+	#press-or-booking {
+		background-color: #f2ae44;
+		color: white;
+	}
+}

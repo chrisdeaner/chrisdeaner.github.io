@@ -13,16 +13,15 @@ excerpt_separator: <!--more-->
 ## Further Afield
 
 <div id="release-info">
-    Releasing May 31st 2024 on <a href="https://ejrc.com">Ernest Jennings Record Company</a> Pre-order <a href="https://ernestjenning.limitedrun.com/products/778312">here</a>.
+    Releasing May 31st 2024 on <a href="https://ejrc.com">Ernest Jenning Record Co</a><br/>
 </div>
-
 <div id="container">
     <div id="release-container">
         <div id="artwork">
             <a href="/assets/img/fa.jpg" alt="Full res version"><img src="/assets/img/fa.jpg"/></a>
             <div id="buy-album-btn">
                 <div class="button-sm">
-                    <a href="/store/#further-afield-vinyl">Pre-order it</a>
+                    <a href="https://ernestjenning.limitedrun.com/products/778312">Pre-order</a>
                 </div>
             </div>
         </div>

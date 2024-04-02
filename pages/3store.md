@@ -9,4 +9,4 @@ music. When you buy straight from us or our labels, a larger percentage of your
 purchase will go directly to the band. We use paypal to fulfill orders.
 
 If you don't see something listed here, make sure to check the online stores for
-Earnest Jennings or Teenbeat.
+Earnest Jenning Record Co or Teenbeat Records.
