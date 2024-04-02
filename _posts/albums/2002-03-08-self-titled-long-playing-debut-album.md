@@ -1,7 +1,7 @@
 ---
 layout: album
 image_url: "/assets/img/stlpda.jpg"
-title: "Self Titled Long Playing Debut Album (2002)"
+title: "Self-Titled Long-Playing Debut Album (2002)"
 date: 2002-03-08 20:30:54 -0500
 tags: discography
 permalink: /self-titled-long-playing-debut-album/
