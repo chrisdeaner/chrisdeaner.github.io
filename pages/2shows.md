@@ -9,14 +9,20 @@ permalink: /shows/
     {% assign month = '' %}
     {% assign class = '' %}
     {% assign isPast = false %}
+    {% assign haveCurrentShows = false %}
     {% assign now = "now" | date: "%s" | times: 1 %}
     {% for show in site.data.shows %}
         {% assign showDate = show.date | date: "%s" | times: 1 %}
         
+        {% if showDate > now and haveCurrentShows == false %}
+            {% assign haveCurrentShows = true %}
+            <div id="shows-header"><h2>Upcoming Shows</h2></div>
+        {% endif %}
+        
         {% if showDate < now and isPast == false %}
             {% assign class = 'class="past"' %}
             {% assign isPast = true %}
-            <div id="previous"><h2>Previous Shows</h2></div>
+            <div id="shows-header"><h2>Previous Shows</h2></div>
         {% endif %}
         {% assign newMonth = show.date | date: "%B %Y" %}
         {% if month != newMonth %}
