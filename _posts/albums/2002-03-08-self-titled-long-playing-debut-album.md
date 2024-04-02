@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/stlpda3.jpg"
+image_url: "/assets/img/stlpda.jpg"
 title: "Self Titled Long Playing Debut Album (2002)"
 date: 2002-03-08 20:30:54 -0500
 tags: discography
@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 <div id="container">
    <div id="release-info">
-        <b>1st Pressing</b>. Released March 8th, 2002 on <a href="https://www.teenbeatrecords.com/items/323.html">Teenbeat Records</a>
+        <b>Silver Release</b>. Released March 18th, 2002 and April 28th, 2002 on <a href="https://www.teenbeatrecords.com/items/323.html">Teenbeat Records</a>
     </div>
    <div id="release-container">
         <div id="artwork">
@@ -43,7 +43,7 @@ excerpt_separator: <!--more-->
 </div>
 <div id="container">
    <div id="release-info">
-        <b>2nd Pressing</b>
+        <b>Red Release</b> Released February 5th, 2003 and March 19th, 2004 on <a href="https://www.teenbeatrecords.com/items/323.html">Teenbeat Records</a>
     </div>
    <div id="release-container">
         <div id="artwork">
@@ -72,7 +72,7 @@ excerpt_separator: <!--more-->
 </div>
 <div id="container">
    <div id="release-info">
-        <b>3rd Pressing</b>
+        <b>Orange Release</b> Released January 28th, 2005 on <a href="https://www.teenbeatrecords.com/items/323.html">Teenbeat Records</a>
     </div>
    <div id="release-container">
         <div id="artwork">
