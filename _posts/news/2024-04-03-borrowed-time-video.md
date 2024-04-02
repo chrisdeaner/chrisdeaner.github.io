@@ -8,8 +8,11 @@ excerpt_separator: <!--more-->
 
 Today we are releasing the first single from our upcoming release. Borrowed Time
 is the first track on the forthcoming full-length release
-[Further Afield](/further-afield/). We are also premiering the video! Check it
-our [here](https://youtu.be/UJKDO7uQCeM).
+[Further Afield](/further-afield/). We are also premiering the video!
+
+<div class="video-container">
+    <iframe width="100%" height="473px" src="https://www.youtube.com/embed/UJKDO7uQCeM?si=6O8xSm_bOso7trNq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <!--more-->
 
@@ -20,13 +23,7 @@ resulting loops were quite unique, and so we set out to make an entire video
 comprised of these shots. The shoot took a while though, as each second of video
 took nearly 4 mins to shoot.
 
-Check out the video below:
-
-<div class="video-container">
-    <iframe width="100%" height="473px" src="https://www.youtube.com/embed/UJKDO7uQCeM?si=6O8xSm_bOso7trNq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-Fun fact, the photo still from that night can be found in the cover art for
+Fun fact, some photos from the video can be found in the cover art for
 [Further Afield](/further-afield/). Can you find them? High res version of the
 artwork [here](/assets/img/fa.jpg).
 
