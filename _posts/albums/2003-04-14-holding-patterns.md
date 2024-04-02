@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Holding Patterns
 
 <div id="release-info">
-    Released April 14th, 2003 on <a href="https://www.teenbeatrecords.com/items/343.html">Teenbeat Records</a>
+    <b>General Release.</b>Released April 14th, 2003 on <a href="https://www.teenbeatrecords.com/items/343.html">Teenbeat Records</a>
 </div>
 
 <div id="container">
@@ -40,7 +40,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    Released April 14th, 2003 on & Records
+    <b>Japanese Release.</b>Released April 14th, 2003 on & Records Japan  
 </div>
 
 <div id="container">
