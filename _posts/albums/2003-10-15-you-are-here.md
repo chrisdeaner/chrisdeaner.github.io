@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/yah-us.jpg"
+image_url: "/assets/img/yah-jp.jpg"
 title: "You are Here (2003)"
 date: 2003-10-27 20:30:54 -0500
 tags: discography
