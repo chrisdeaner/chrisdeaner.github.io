@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## Xs onyour Eyes
+## Xs on Your Eyes
 
 <div id="container">
     <div id="release-info">
@@ -72,7 +72,7 @@ excerpt_separator: <!--more-->
 </div>
 <div id="container">
     <div id="release-info">
-        <b>European Release</b>. Released October 15th, 2008 on BBIsland Records
+        <b>European Release (CD & Vinyl)</b>. Released October 15th, 2008 on BBIsland Records
     </div>
     <div id="release-container">
         <div id="artwork">
