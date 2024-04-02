@@ -6,7 +6,7 @@ tags: news
 excerpt_separator: <!--more-->
 ---
 
-Here comes the first single from [Further Afield](/further-afield/)! It's called Borrowed Time. We are also premiering the video!
+Here comes the first single and video from [Further Afield](/further-afield/)! It's called Borrowed Time. Hope you like it!
 
 <div class="video-container">
     <iframe width="100%" height="473px" src="https://www.youtube.com/embed/UJKDO7uQCeM?si=6O8xSm_bOso7trNq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
