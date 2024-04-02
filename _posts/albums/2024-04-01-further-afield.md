@@ -49,7 +49,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/fa.jpg" alt="Full res version"><img src="/assets/img/fa.jpg"/></a>
+            <a href="/assets/img/fa-jp.jpg" alt="Full res version"><img src="/assets/img/fa-jp.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#further-afield-album">Lyrics</a>)</h4>
