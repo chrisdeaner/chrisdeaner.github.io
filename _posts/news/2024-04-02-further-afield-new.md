@@ -56,8 +56,8 @@ our other releases, and we love the results (again).
 
 Further Afield will be released on Ernest Jenning Record Co and will be available on all
 the streaming platforms, Bandcamp, and vinyl. You can pre-order the vinyl
-[here](https://ernestjenning.limitedrun.com/products/778312).  It will also be available on CD
-with the songs from our EP, [Summer 2019: Extended Play](/summer-2019-ep/) included as a
+[here](https://ernestjenning.limitedrun.com/products/778312).  It will also be available in Japan on CD on [7ep](http://7ep.net/)
+with the songs from [Summer 2019: Extended Play](/summer-2019-ep/) included as a
 bonus.  
 
 It's nice to be back.  Talk soon.
