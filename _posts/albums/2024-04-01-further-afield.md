@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/fa.jpg"
+image_url: "/assets/img/fa-jp.jpg"
 title: "Further Afield (2024)"
 date: 2024-01-06 20:30:54 -0500
 tags: discography
@@ -44,7 +44,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    <b>Japanese CD Release</b>. Releasing May 31st, 2024 on 7ep Records Japan.
+    <b>Japanese CD Release</b>. Releasing May 31st, 2024 on <a href="http://7ep.net/">7ep</a> Japan.
 </div>
 <div id="container">
     <div id="release-container">
