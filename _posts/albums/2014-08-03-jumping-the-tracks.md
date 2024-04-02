@@ -2,7 +2,7 @@
 layout: album
 image_url: "/assets/img/jtt.jpg"
 title: "Jumping the Tracks (2014)"
-date: 2024-01-06 20:30:54 -0500
+date: 2014-01-06 20:30:54 -0500
 tags: discography
 permalink: /jumping-the-tracks/
 excerpt_separator: <!--more-->
