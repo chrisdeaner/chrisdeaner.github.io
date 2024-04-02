@@ -36,7 +36,6 @@ excerpt_separator: <!--more-->
                 <li>Exorcising Your Ghost</li>
                 <li>Rewrite the Story</li>
                 <li>There Goes My Love</li>
-                <li>Running the Distance</li>
                 <li>What Lies Ahead</li>
             </ol>
         </div>
