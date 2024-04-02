@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## Self titled Long Playing Debut Album
+## Self-Titled Long-Playing Debut Album
 
 <div id="container">
    <div id="release-info">
