@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Further Afield coming soon!"
-date: 2024-04-02 10:31:00 -0500
+date: 2024-04-03 09:46:00 -0500
 tags: news
 excerpt_separator: <!--more-->
 ---
