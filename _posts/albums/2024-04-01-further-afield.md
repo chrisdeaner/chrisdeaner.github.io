@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Further Afield
 
 <div id="release-info">
-    <b>General Vinyl Release</b>. Releasing May 31st 2024 on <a href="https://ejrc.com">Ernest Jenning Record Co</a><br/>
+    <b>General Vinyl Release</b>. Releasing May 31st, 2024 on <a href="https://ejrc.com">Ernest Jenning Record Co</a><br/>
 </div>
 <div id="container">
     <div id="release-container">
@@ -44,7 +44,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    <b>Japanese CD Release</b>. Releasing May 31st 2024 on 7ep Records Japan.
+    <b>Japanese CD Release</b>. Releasing May 31st, 2024 on 7ep Records Japan.
 </div>
 <div id="container">
     <div id="release-container">
