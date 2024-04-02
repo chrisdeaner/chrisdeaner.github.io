@@ -22,6 +22,7 @@ We are excited to announce the release of our latest full-length effort:
 </div>
 
 Hey there! Long time no see. Let's catch up, shall we?  
+
 It’s been a while since our last full-length album,
 [Jumping the Tracks](/jumping-the-tracks/) was unleashed upon the world. After
 releasing that album, we were planning on releasing an EP every six months. Basically, 
