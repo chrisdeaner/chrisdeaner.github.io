@@ -1,7 +1,7 @@
 ---
 layout: album
 image_url: "/assets/img/stlpda.jpg"
-title: "Self Titled Long Playing Debut Album (2002)"
+title: "Self-Titled Long-Playing Debut Album (2002)"
 date: 2002-03-08 20:30:54 -0500
 tags: discography
 permalink: /self-titled-long-playing-debut-album/
@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
             <a href="/assets/img/stlpda.jpg" alt="Full res version"><img src="/assets/img/stlpda.jpg"/></a>
         </div>
         <div id="tracklist">
-            <h4>Track Listing</h4>
+            <h4>Track Listing (<a href="/lyrics/#self-titled-long-playing-debut-album-album">Lyrics</a>)</h4>
             <ol>
                 <li>All I Do</li>
                 <li>Crestfallen</li>
@@ -50,7 +50,7 @@ excerpt_separator: <!--more-->
             <a href="/assets/img/stlpda2.jpg" alt="Full res version"><img src="/assets/img/stlpda2.jpg"/></a>
         </div>
         <div id="tracklist">
-            <h4>Track Listing</h4>
+            <h4>Track Listing (<a href="/lyrics/#self-titled-long-playing-debut-album-album">Lyrics</a>)</h4>
             <ol>
                 <li>All I Do</li>
                 <li>Crestfallen</li>
@@ -84,7 +84,7 @@ excerpt_separator: <!--more-->
             </div>
         </div>
         <div id="tracklist">
-            <h4>Track Listing</h4>
+            <h4>Track Listing (<a href="/lyrics/#self-titled-long-playing-debut-album-album">Lyrics</a>)</h4>
             <ol>
                 <li>All I Do</li>
                 <li>Crestfallen</li>

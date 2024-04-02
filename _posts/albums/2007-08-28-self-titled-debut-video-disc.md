@@ -1,7 +1,7 @@
 ---
 layout: album
 image_url: "/assets/img/stdvd-sq.jpg"
-title: "Self Titled Debut Video Disc (2007)"
+title: "Self-Titled Debut Video Disc (2007)"
 date: 2007-08-28 20:30:54 -0500
 tags: discography
 permalink: /self-titled-debut-video-disc/
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## Self titled Debut Video Disc
+## Self-Titled Debut Video Disc
 
 <div id="release-info">
 	Released August 28th, 2007 on
