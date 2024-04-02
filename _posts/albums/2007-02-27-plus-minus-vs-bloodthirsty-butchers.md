@@ -10,30 +10,8 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## +/- {plus/minus} vs Bloodthirsty Butchers
+## +/- {Plus/Minus} vs Bloodthirsty Butchers
 
-<div id="container">
-    <div id="release-info">
-        <b>Japanese Vinyl Release</b>. Released November 3, 2023 on <a href="https://columbia.jp/artist-info/butchers/discography/COJA-9486.html">Nippon Columbia</a>
-    </div>
-    <div id="release-container">
-        <div id="artwork">
-            <a href="/assets/img/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/pmvsbtb.jpg"/></a>
-        </div>
-        <div id="tracklist">
-            <h4>Track Listing</h4>
-            <ol>
-                <li>Jack Nicolson"</li>
-                <li>I've Been Lost"</li>
-                <li>Chromatic"</li>
-                <li>Gokigen Ikaga"</li>
-                <li>Banging The Drum"</li>
-                <li>Waking Up is Hard to Do"</li>
-                <li>Summer Dress 1 (All Her Winter Clothes)"</li>
-            </ol>
-        </div>
-    </div>
-</div>
 <div id="container">
     <div id="release-info">
         <b>US CD Release</b>. Released February 27th, 2007 on <a href="https://www.teenbeatrecords.com/items/383.html">Teenbeat Records</a>
@@ -55,9 +33,33 @@ excerpt_separator: <!--more-->
         </div>
     </div>
 </div>
+
 <div id="container">
     <div id="release-info">
         <b>Japanese CD Release</b>. Released April 20, 2005 on <a href="https://columbia.jp/triad/">Triad</a>
+    </div>
+    <div id="release-container">
+        <div id="artwork">
+            <a href="/assets/img/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/pmvsbtb.jpg"/></a>
+        </div>
+        <div id="tracklist">
+            <h4>Track Listing</h4>
+            <ol>
+                <li>Jack Nicolson"</li>
+                <li>I've Been Lost"</li>
+                <li>Chromatic"</li>
+                <li>Gokigen Ikaga"</li>
+                <li>Banging The Drum"</li>
+                <li>Waking Up is Hard to Do"</li>
+                <li>Summer Dress 1 (All Her Winter Clothes)"</li>
+            </ol>
+        </div>
+    </div>
+</div>
+
+<div id="container">
+    <div id="release-info">
+        <b>Japanese Vinyl Release</b>. Released November 3, 2023 on <a href="https://columbia.jp/artist-info/butchers/discography/COJA-9486.html">Nippon Columbia</a>
     </div>
     <div id="release-container">
         <div id="artwork">
