@@ -344,9 +344,7 @@ I've been lost
 Not the only one  
 Ready to come down.
 
-#### Trapped Under Ice
-
-Floes
+#### Trapped Under Ice Floes
 
 So stuck inside  
 No bars are on the windows  
@@ -2080,3 +2078,366 @@ Leaves a stain on us
 
 Lately I've been a cauldron  
 Slowing stewing on low
+
+<h3 id="summer-2019-extended-play-album">Summer 2019 : Extended Play</h3>
+
+#### You Are One
+
+You’re waiting forever  
+It’s not gonna find you  
+And all your obsessions  
+Are not gonna blind you  
+
+You are one  
+When you are gone  
+You are gone  
+When you are one  
+
+#### Driving Aimlessly
+
+You don’t know me  
+From a hole in the wall  
+Let’s make some noise ‘til  
+They break down the door  
+You belong here with me  
+We’ll be lost and innocent  
+Could never see you alone  
+
+Say you want me  
+Sitting shotgun we’ll go  
+Driving aimlessly  
+While it’s twenty below  
+And we’ll be lost in the waves  
+We’ll be lost and innocent  
+Could never see alone  
+
+Am I too late  
+Our hearts awake  
+When you wait  
+You sink down  
+
+Don’t let me down  
+In your heart  
+
+#### Drawn Into the Sun
+
+Open up and step inside  
+to never realize  
+Everything that was dragging you down  
+Can’t leave it all behind  
+
+Free to roam out on your own  
+And never breaking stride  
+A prisoner behind your eyes  
+Even though they’re open wide  
+
+You were drawn into the sun  
+Just a ghost inside  
+Never cast aside  
+Calling out to everyone  
+You were lost to time  
+In the blink of an eye  
+
+Wading through the rolling waves  
+And never breaking stride  
+Feel the pull into the sea  
+And leave it all behind  
+
+You were drawn into the sun  
+Just a ghost inside  
+Never cast aside  
+Calling out to everyone  
+You were lost to time  
+In the blink of an eye  
+
+#### Sugarcane (Redux)
+
+You call for me now  
+I’m on standby  
+I’ll stay in line  
+My eyes are blind  
+
+And you knew you’d cause a landslide  
+For your sugarcane  
+Yeah you knew you’d cause a landslide  
+For your sugarcane  
+
+#### Safe Harbor
+
+You were walking down the street from side to side  
+Looking out for shooting stars to catch your eye  
+And the only thing you seem to see  
+Always fading out of view  
+
+A map drawn out to show where water flows  
+And everything seems overexposed  
+And the only thing you seem to feel  
+Is you don’t know what to do  
+
+There’s an island somewhere down beneath the clouds  
+Safe harbor in the fog if you come down  
+But the only thing that seems quite real  
+Always fading out of view  
+
+Flying blind  
+No map to reference how  
+Oh why don’t you come down  
+And interrupt my train of thought  
+Don’t you see  
+The curtain’s been undrawn  
+Oh why don’t you come down  
+And interrupt my train of thought  
+
+<h3 id="further-afield-album">Further Afield</h3>
+
+#### Borrowed Time
+
+Earlier on we jump in side by side  
+A common mission keeps us unified  
+
+Years of dissatisfaction magnified  
+By steady disaffection in our lives  
+
+It’s all on Borrowed time  
+It’s all wrong again  
+
+Driving us to distraction  
+Feel maligned  
+Unable to take action  
+Undermined  
+
+It’s all on Borrowed time  
+It’s all wrong  
+Until we try  
+It’s all wrong again  
+
+#### Gondolier
+
+I don’t mind if you go  
+It’s been a good while  
+And stasis only drags you down  
+And I won’t mind if you come back around  
+I will wait for you  
+I will leave the light on  
+
+and get you on your own  
+
+I don’t mind if you say  
+You’ve had enough of that  
+At least you’re coming out of it   
+And I won’t mind if you’re flailing around  
+I will wait for you  
+I will leave the light on  
+
+To get you on your own  
+
+There’s a cold wind blowing through your hair ( down the track )  
+When you take initial steps anywhere ( don’t look back )  
+No one’s brushing rocks toward the sides  
+Without them, the path is too open wide  
+
+So let’s raise a glass to when you’ve gone  
+And hope that you’ve got what you need to get on  
+Just remember when you’re wrestling with doubt  
+That the light will never die out  
+
+In the distance we will see  
+You’re holding onto me  
+But the story still unfolds  
+
+‘Cuz I’ve journeyed through the years  
+to meet the gondolier  
+I hope you can let go  
+
+I was waiting there for you  
+Even though I could not follow  
+And you’ll know just what to do  
+Even when I cannot follow  
+
+#### Driving Aimlessly (Redux)
+
+You don’t know me  
+From a hole in the wall  
+Let’s make some noise ‘til  
+They break down the door  
+You belong here with me  
+We’ll be lost and innocent  
+Could never see you alone  
+
+Say you want me  
+Sitting shotgun we’ll go  
+Driving aimlessly  
+While it’s twenty below  
+And we’ll be lost in the waves  
+We’ll be lost and innocent  
+Could never see you alone  
+
+Am I too late?  
+Our hearts awake  
+When you wait  
+You sink down  
+
+#### Where I Hope We Get Lost
+
+When we were  
+We were so young  
+A long way  
+So much undone  
+
+Will you wait  
+When I can’t go on  
+And on the way  
+When plans go wrong  
+
+Our fingers  
+Tracing birthmarks  
+A hedge maze  
+Where I hope we get lost  
+
+You wait when I can’t go on  
+While we sink I can’t let on  
+You wait when I can’t go on  
+And on the way my hands holding on  
+
+#### The Pull From Both Sides
+
+Burning down  
+A home completely to the ground  
+Beneath the charred remains  
+Will you be alright?  
+
+All the fire  
+Is channeled to a future life  
+We chase away the time  
+And hope it’s alright  
+
+Breaking free  
+Unraveling the knot to see  
+you’re stretched out in between  
+The pull from both sides  
+
+Heed both calls  
+But never realize it’s wrong  
+We chase away the time  
+And hope it’s alright  
+
+And I will try to be all that you need  
+And I will fight hard to be where you are  
+
+#### Calling Off the Rescue
+
+A flicker in the wick  
+We know how this one ends  
+This sturdy house of cards  
+Comes crashing down on them  
+
+A flicker in the wick  
+We couldn’t feel a thing  
+Stumble in the dark  
+Heart under your sleeve  
+We hear our moving lips  
+But no one sees you speak  
+Confessing all my love  
+While you were fast asleep  
+
+Calling off the rescue  
+While we’re still lost  
+They’re calling off the rescue  
+While we’re still lost  
+Calling off the rescue  
+While we’re still lost  
+
+#### Contempt
+
+When we cross to the other side  
+Feel secure that the knot is tied  
+and we’re still aligned  
+
+Always ever after  
+
+Shelter from the bitter storm  
+Insulation from the cold  
+Keeps the welcome warm  
+
+Always ever after  
+
+And we’re adding fuel to the fire  
+The embers glowing with a spark  
+The concerns are wholly justified  
+We misjudge the distance in the dark  
+
+Seems as if we’ve lost control  
+And contempt has taken hold  
+But we never know  
+
+Always ever after  
+
+Grasping for a final chance  
+Without fear of reprimand  
+Before we let it go  
+
+Always ever after  
+
+And we’re adding fuel to the fire  
+The embers glowing with a spark  
+The concerns are wholly justified  
+We misjudge the distance in the dark  
+
+So we’re adding fuel to the fire  
+The embers glowing with a spark  
+The concerns are wholly justified  
+Can’t judge the distance in the dark  
+
+And we never know  
+What will take hold  
+
+#### Redrawn
+
+We’re further afield than we had imagined  
+No sense of direction and we lost our bearings  
+
+Didn’t realize we got turned around  
+
+We can’t perceive how far we have drifted  
+It’s never a straight line the compass is spinning  
+
+Didn’t realize we got turned around  
+Can we save ourselves by running aground  
+
+And all the things we said  
+Begin to lose meaning  
+When all we need to do  
+Is forgotten so quickly  
+
+We’re following maps that are being redrawn  
+Every detour pulling us farther  
+
+Didn’t realize we got turned around  
+Can we save ourselves by running aground  
+
+And all the things we said  
+Begin to lose meaning  
+When all we need to do  
+Is forgotten so quickly  
+
+No wonder we’ve drifted so far  
+No wonder we end up off course  
+Can we navigate by stars  
+When we don’t know where we are  
+
+#### Is It Over Now
+
+Was it overhead or an undertow?  
+If you see me flinch get out your phone  
+Fall into the fog of faceless liaisons  
+Where no one ever hears I was wrong  
+
+All this is to say our so longs  
+And sing is it over now?  
+Over now  
+Is it over now  
+Over now  
+Is it over now  
+Over now  
+Is it over now  
+It’s over now  
