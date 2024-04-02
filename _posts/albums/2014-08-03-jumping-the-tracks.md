@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## Jumping The Tracks
+## Jumping the Tracks
 
 <div id="release-info">
     Released October 5th 2014 on <a href="https://teenbeat.net">Teenbeat Records</a>
