@@ -129,7 +129,7 @@ excerpt_separator: <!--more-->
 </div>
 <div id="container">
     <div id="release-info">
-        <b>European Extended CD Release</b>. Released ????? on BB Island Records
+        <b>European Extended CD Release</b>. Released on BB Island Records Germany.
     </div>
     <div id="release-container">
         <div id="artwork">
