@@ -1,15 +1,15 @@
 [
 	{
-		"date": "1 june 2024",
-		"venue": "<a href=\"http://www.union-pool.com/\">union pool</a>",
-		"location": "brooklyn, ny",
-		"lineup": "<b>ALBUM RELEASE PARTY!!</b> w / TBD"
-	},
-	{
 		"date": "28 april 2024",
 		"venue": "TBD",
 		"location": "brooklyn, ny",
 		"lineup": " w / The Van Pelt / Caitlin Demarrais"
+	},
+	{
+		"date": "1 june 2024",
+		"venue": "<a href=\"http://www.union-pool.com/\">union pool</a>",
+		"location": "brooklyn, ny",
+		"lineup": "<b>ALBUM RELEASE PARTY!!</b> w / TBD"
 	},
 	{
 		"date": "10 november 2023",
