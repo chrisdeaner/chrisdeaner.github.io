@@ -6,7 +6,7 @@ tags: news
 excerpt_separator: <!--more-->
 ---
 
-We have some exciting new to share! On May 31st, 2024, we will be releasing our
+We have some exciting news to share! On May 31st, 2024, we will be releasing our
 sixth full-length album, [Further Afield](/further-afield/), our first LP in a decade. We think it's 
 our best yet! It contains many of the hallmarks of a +/- {Plus/Minus} album, but, as always,
 we're exploring new (for us) territory. Buckle up!
