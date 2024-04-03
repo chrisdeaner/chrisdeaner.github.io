@@ -12,10 +12,6 @@ excerpt_separator: <!--more-->
 
 ## You Are Here
 
-<div id="album-info">
-     Some info about You are Here. e.g. we recorded it in James' apartment at union square. Contains seperate track lintings and exclusive tracks in Europe and Japan. 
-</div>
-
 <div id="container">
     <div id="release-info">
         <b>General Release 1st Pressing</b>. Released October 27th, 2003 on <a href="https://www.teenbeatrecords.com/items/363.html">Teenbeat Records</a>
