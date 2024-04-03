@@ -25,9 +25,9 @@ Hey there! Long time no see. Let's catch up, shall we?
 It’s been a while since our last full-length album,
 [Jumping the Tracks](/jumping-the-tracks/) was unleashed upon the world. After
 releasing that album, we were planning on releasing an EP every six months. Basically, 
-we had a planto keep releasing material as quickly as possible. Alas, this resulted 
+we had a plan to keep releasing material as quickly as possible. Alas, this resulted 
 in... just one EP: [Summer 2019: Extended Play](/summer-2019-ep). As fate would have it, 
-COVID made our plan impossible. In order to keep writing, we met over Zoom over a number
+COVID made our plan impossible. In order to keep writing, we met on Zoom over a number
 of cocktails and hatched a plan to continue writing and recording via sharing videos.
 This culminated in 3 songs that we released on YouTube and dubbed The Isolation Series:
 [Just Let it Pass](https://youtu.be/P_5gNopfRT4), [Single Lens Reflex](https://youtu.be/IEitz9cUWHQ), 
@@ -48,7 +48,7 @@ exception. Feeling the pressure of trying to release more material quickly, we
 went to a friend's beautiful house in Saratoga Springs, NY for a week in the
 fall of 2022 to complete the recording for the album. After that successful
 trip, We came back to Brooklyn and put the finishing touches on the album's
-songs. To give it a different twise, we outsourced the mixing for the first time ever. 
+songs. To give it a different twist, we outsourced the mixing for the first time ever. 
 We chose to work with Ray Ketchem at [Magic Door Recording](https://www.magicdoorrecording.com/)
 and we are sure are glad we did. With the album completed, we asked our old friend and
 mentor Mark Robinson at [Teen-Beat Graphica](https://mmarkk.com/) to design the album, as he has all of
