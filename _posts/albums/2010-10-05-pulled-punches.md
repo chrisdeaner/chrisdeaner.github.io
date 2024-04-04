@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/pp.jpg"
+image_url: "/assets/img/opt/pp.jpg"
 title: "Pulled Punches (2010)"
 date: 2010-10-05 20:30:54 -0500
 tags: discography
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/pp.jpg" alt="Full res version"><img src="/assets/img/pp.jpg"/></a>
+            <a href="/assets/img/full/pp.jpg" alt="Full res version"><img src="/assets/img/opt/pp.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#pulled-punches-album">Lyrics</a>)</h4>

@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/stlpda.jpg"
+image_url: "/assets/img/opt/stlpda.jpg"
 title: "Self-Titled Long-Playing Debut Album (2002)"
 date: 2002-03-08 20:30:54 -0500
 tags: discography
@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
     </div>
    <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/stlpda.jpg" alt="Full res version"><img src="/assets/img/stlpda.jpg"/></a>
+            <a href="/assets/img/full/stlpda.jpg" alt="Full res version"><img src="/assets/img/opt/stlpda.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#self-titled-long-playing-debut-album-album">Lyrics</a>)</h4>
@@ -47,7 +47,7 @@ excerpt_separator: <!--more-->
     </div>
    <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/stlpda2.jpg" alt="Full res version"><img src="/assets/img/stlpda2.jpg"/></a>
+            <a href="/assets/img/full/stlpda2.jpg" alt="Full res version"><img src="/assets/img/opt/stlpda2.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#self-titled-long-playing-debut-album-album">Lyrics</a>)</h4>
@@ -76,7 +76,7 @@ excerpt_separator: <!--more-->
     </div>
    <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/stlpda3.jpg" alt="Full res version"><img src="/assets/img/stlpda3.jpg"/></a>
+            <a href="/assets/img/full/stlpda3.jpg" alt="Full res version"><img src="/assets/img/opt/stlpda3.jpg"/></a>
             <div id="buy-album-btn">
                 <div class="button-sm">
                     <a href="/store/#self-titled-long-playing-debut-album-cd">Buy It</a>

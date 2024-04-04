@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/atllb.jpg"
+image_url: "/assets/img/opt/atllb.jpg"
 title: "All the Light Left Behind (2022)"
 date: 2024-01-06 20:30:54 -0500
 tags: discography
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/atllb.jpg" alt="Full res version"><img src="/assets/img/atllb.jpg"/></a>
+            <a href="/assets/img/full/atllb.jpg" alt="Full res version"><img src="/assets/img/opt/atllb.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing</h4>

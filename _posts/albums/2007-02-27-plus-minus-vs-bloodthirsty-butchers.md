@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/pmvsbtb.jpg"
+image_url: "/assets/img/opt/pmvsbtb.jpg"
 title: "+/- vs Bloodthirsty Butchers (2007)"
 date: 2007-02-27 20:30:54 -0500
 tags: discography
@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/pmvsbtb.jpg"/></a>
+            <a href="/assets/img/full/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/opt/pmvsbtb.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing</h4>
@@ -40,7 +40,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/pmvsbtb.jpg"/></a>
+            <a href="/assets/img/full/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/opt/pmvsbtb.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing</h4>
@@ -63,7 +63,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/pmvsbtb.jpg"/></a>
+            <a href="/assets/img/full/pmvsbtb.jpg" alt="Full res version"><img src="/assets/img/opt/pmvsbtb.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing</h4>

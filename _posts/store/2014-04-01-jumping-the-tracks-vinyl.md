@@ -4,7 +4,7 @@ title: "Jumping The Tracks [Vinyl]"
 date: 2014-03-26 20:30:54 -0500
 tags: product
 detail_page: "/jumping-the-tracks/"
-image: "/assets/img/jtt.jpg"
+image: "/assets/img/opt/jtt.jpg"
 price: "18.88"
 item_number: 021
 item_name: "Jumping The Tracks [Vinyl]"

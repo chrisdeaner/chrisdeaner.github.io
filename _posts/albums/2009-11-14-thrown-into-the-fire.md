@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/titf.jpg"
+image_url: "/assets/img/opt/titf.jpg"
 title: "Thrown into the Fire (2009)"
 date: 2009-11-14 20:30:54 -0500
 tags: discography
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/titf.jpg" alt="Full res version"><img src="/assets/img/titf.jpg"/></a>
+            <a href="/assets/img/full/titf.jpg" alt="Full res version"><img src="/assets/img/opt/titf.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing</h4>

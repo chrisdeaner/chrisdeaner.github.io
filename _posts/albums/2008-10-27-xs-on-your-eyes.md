@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/xoye.jpg"
+image_url: "/assets/img/opt/xoye.jpg"
 title: "Xs on your Eyes (2008)"
 date: 2008-10-15 20:30:54 -0500
 tags: discography
@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/xoye.jpg" alt="Full res version"><img src="/assets/img/xoye.jpg"/></a>
+            <a href="/assets/img/full/xoye.jpg" alt="Full res version"><img src="/assets/img/opt/xoye.jpg"/></a>
             <div id="buy-album-btn">
                 <div class="button-sm">
                     <a href="/store/#xs-on-your-eyes-cd">Buy It</a>
@@ -49,7 +49,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/xoye-jp.jpg" alt="Full res version"><img src="/assets/img/xoye-jp.jpg"/></a>
+            <a href="/assets/img/full/xoye-jp.jpg" alt="Full res version"><img src="/assets/img/opt/xoye-jp.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#xs-on-your-eyes-album">Lyrics</a>)</h4>
@@ -76,7 +76,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/xoye-eu.jpg" alt="Full res version"><img src="/assets/img/xoye-eu.jpg"/></a>
+            <a href="/assets/img/full/xoye-eu.jpg" alt="Full res version"><img src="/assets/img/opt/xoye-eu.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#xs-on-your-eyes-album">Lyrics</a>)</h4>

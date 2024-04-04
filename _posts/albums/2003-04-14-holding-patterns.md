@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/hp.jpg"
+image_url: "/assets/img/opt/hp.jpg"
 title: "Holding Patterns (2003)"
 date: 2003-04-14 20:30:54 -0500
 tags: discography
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/hp.jpg" alt="Full res version"><img src="/assets/img/hp.jpg"/></a>
+            <a href="/assets/img/full/hp.jpg" alt="Full res version"><img src="/assets/img/opt/hp.jpg"/></a>
             <div id="buy-album-btn">
                 <div class="button-sm">
                     <a href="/store/#holding-patterns">Buy It</a>
@@ -46,7 +46,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/hp-jp.jpg" alt="Full res version"><img src="/assets/img/hp-jp.jpg"/></a>
+            <a href="/assets/img/full/hp-jp.jpg" alt="Full res version"><img src="/assets/img/opt/hp-jp.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#holding-patterns-album">Lyrics</a>)</h4>

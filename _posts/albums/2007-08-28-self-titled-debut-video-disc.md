@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/stdvd-sq.jpg"
+image_url: "/assets/img/opt/stdvd-sq.jpg"
 title: "Self-Titled Debut Video Disc (2007)"
 date: 2007-08-28 20:30:54 -0500
 tags: discography
@@ -22,8 +22,8 @@ excerpt_separator: <!--more-->
 <div id="container">
 	<div id="release-container">
 		<div id="artwork">
-			<a href="/assets/img/stdvd.jpg" alt="Full res version"
-				><img src="/assets/img/stdvd.jpg"
+			<a href="/assets/img/full/stdvd.jpg" alt="Full res version"
+				><img src="/assets/img/opt/stdvd.jpg"
 			/></a>
 		</div>
 		<div id="tracklist">

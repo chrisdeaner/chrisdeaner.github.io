@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/sswwl.jpg"
+image_url: "/assets/img/opt/sswwl.jpg"
 title: "Split Single with Whysall Lane (2002)"
 date: 2002-01-01 20:30:54 -0500
 tags: discography
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/sswwl.jpg" alt="Full res version"><img src="/assets/img/sswwl.jpg"/></a>
+            <a href="/assets/img/full/sswwl.jpg" alt="Full res version"><img src="/assets/img/opt/sswwl.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing</h4>

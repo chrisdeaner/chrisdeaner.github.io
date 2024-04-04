@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/fa-jp.jpg"
+image_url: "/assets/img/opt/fa-jp.jpg"
 title: "Further Afield (2024)"
 date: 2024-01-06 20:30:54 -0500
 tags: discography
@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/fa.jpg" alt="Full res version"><img src="/assets/img/fa.jpg"/></a>
+            <a href="/assets/img/full/fa.jpg" alt="Full res version"><img src="/assets/img/opt/fa.jpg"/></a>
             <div id="buy-album-btn">
                 <div class="button-sm">
                     <a href="https://ernestjenning.limitedrun.com/products/778312">Pre-order</a>
@@ -49,7 +49,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/fa-jp.jpg" alt="Full res version"><img src="/assets/img/fa-jp.jpg"/></a>
+            <a href="/assets/img/full/fa-jp.jpg" alt="Full res version"><img src="/assets/img/opt/fa-jp.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#further-afield-album">Lyrics</a>)</h4>

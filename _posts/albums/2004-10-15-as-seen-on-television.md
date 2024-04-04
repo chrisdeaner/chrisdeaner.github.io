@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/asot.jpg"
+image_url: "/assets/img/opt/asot.jpg"
 title: "As Seen on Television (2004)"
 date: 2004-10-15 20:30:54 -0500
 tags: discography
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/asot.jpg" alt="Full res version"><img src="/assets/img/asot.jpg"/></a>
+            <a href="/assets/img/full/asot.jpg" alt="Full res version"><img src="/assets/img/opt/asot.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#as-seen-on-television-album">Lyrics</a>)</h4>

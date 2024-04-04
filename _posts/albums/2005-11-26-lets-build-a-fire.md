@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/lbaf.jpg"
+image_url: "/assets/img/opt/lbaf.jpg"
 title: "Let's Build a Fire (2005)"
 date: 2005-11-26 20:30:54 -0500
 tags: discography
@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/lbaf.jpg" alt="Full res version"><img src="/assets/img/lbaf.jpg"/></a>
+            <a href="/assets/img/full/lbaf.jpg" alt="Full res version"><img src="/assets/img/opt/lbaf.jpg"/></a>
             <div id="buy-album-btn">
                 <div class="button-sm">
                     <a href="/store/#lets-build-a-fire-cd">Buy It</a>
@@ -51,7 +51,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/lbaf.jpg" alt="Full res version"><img src="/assets/img/lbaf.jpg"/></a>
+            <a href="/assets/img/full/lbaf.jpg" alt="Full res version"><img src="/assets/img/opt/lbaf.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#lets-build-a-fire-album">Lyrics</a>)</h4>
@@ -80,7 +80,7 @@ excerpt_separator: <!--more-->
     </div>
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/lbaf.jpg" alt="Full res version"><img src="/assets/img/lbaf.jpg"/></a>
+            <a href="/assets/img/full/lbaf.jpg" alt="Full res version"><img src="/assets/img/opt/lbaf.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#lets-build-a-fire-album">Lyrics</a>)</h4>

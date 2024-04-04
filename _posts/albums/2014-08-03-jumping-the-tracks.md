@@ -1,6 +1,6 @@
 ---
 layout: album
-image_url: "/assets/img/jtt.jpg"
+image_url: "/assets/img/opt/jtt.jpg"
 title: "Jumping the Tracks (2014)"
 date: 2014-01-06 20:30:54 -0500
 tags: discography
@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/jtt.jpg" alt="Full res version"><img src="/assets/img/jtt.jpg"/></a>
+            <a href="/assets/img/full/jtt.jpg" alt="Full res version"><img src="/assets/img/opt/jtt.jpg"/></a>
             <div id="buy-album-btn">
                 <div class="button-sm">
                     <a href="/store/#jumping-the-tracks-vinyl">Buy It</a>
@@ -48,7 +48,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/jtt.jpg" alt="Full res version"><img src="/assets/img/jtt.jpg"/></a>
+            <a href="/assets/img/full/jtt.jpg" alt="Full res version"><img src="/assets/img/opt/jtt.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
@@ -78,7 +78,7 @@ excerpt_separator: <!--more-->
 <div id="container">
     <div id="release-container">
         <div id="artwork">
-            <a href="/assets/img/jtt.jpg" alt="Full res version"><img src="/assets/img/jtt.jpg"/></a>
+            <a href="/assets/img/full/jtt.jpg" alt="Full res version"><img src="/assets/img/opt/jtt.jpg"/></a>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#jumping-the-tracks-album">Lyrics</a>)</h4>
