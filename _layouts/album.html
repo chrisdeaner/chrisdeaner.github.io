@@ -1,7 +1,20 @@
 ---
 layout: default
 ---
+{% assign discography = site.posts | where: 'tags', 'discography' %}
+{%- for post in discography -%}
+	{%- if post.url == page.url -%}
+		{% assign previous = forloop.index | minus: 2 %}
+		{% assign nextUrl = discography[forloop.index].url %}
+		{% assign previousUrl = discography[previous].url %}
+		{% break %}
+	{%- endif -%}
+{%- endfor -%}
 
 <article id="album">
+	<div class="chronology">
+		<a href="{{ previousUrl }}">←</a> Album Chronology
+		<a href="{{ nextUrl}}">→</a>
+	</div>
 	<div class="post-content">{{ content }}</div>
 </article>

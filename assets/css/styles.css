@@ -83,6 +83,10 @@ button {
 		}
 		#show {
 			font-size: 14px;
+			.button-sm {
+				display: inline;
+				margin-left: 8px;
+			}
 		}
 		#shows-header {
 			h2 {
@@ -155,6 +159,13 @@ button {
 }
 
 #album {
+	.chronology {
+		a {
+			font-weight: 700;
+			text-decoration: none;
+			color: #aa2125;
+		}
+	}
 	.post-content {
 		h4 {
 			font-weight: 600;
