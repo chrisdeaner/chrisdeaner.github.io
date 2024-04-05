@@ -50,6 +50,11 @@ excerpt_separator: <!--more-->
     <div id="release-container">
         <div id="artwork">
             <a href="/assets/img/full/fa-jp.jpg" alt="Full res version"><img src="/assets/img/opt/fa-jp.jpg"/></a>
+            <div id="buy-album-btn">
+                <div class="button-sm">
+                    <a href="https://ernestjenning.limitedrun.com/products/778312">Pre-order</a>
+                </div>
+            </div>
         </div>
         <div id="tracklist">
             <h4>Track Listing (<a href="/lyrics/#further-afield-album">Lyrics</a>)</h4>
