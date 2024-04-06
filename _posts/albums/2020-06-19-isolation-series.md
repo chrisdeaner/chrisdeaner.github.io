@@ -24,9 +24,9 @@ excerpt_separator: <!--more-->
         <div id="tracklist">
             <h4>Track Listing</h4>
             <ol>
-                <li>Isolation 01: Just Let it Pass</li>
-                <li>Isolation 02: Single Lens Reflex</li>
-                <li>Isolation 03: Unwind</li>
+                <li><a href="https://www.youtube.com/watch?v=P_5gNopfRT4">Isolation 01: Just Let it Pass</a></li>
+                <li><a href="https://www.youtube.com/watch?v=IEitz9cUWHQ">Isolation 02: Single Lens Reflex</a></li>
+                <li><a href="https://www.youtube.com/watch?v=Rb434w3SCnA">Isolation 03: Unwind</a></li>
             </ol>
         </div>
     </div>
