@@ -210,8 +210,19 @@ button {
 	}
 
 	.release-container {
+		@media only screen and (width <= 736px) {
+			width: 43%;
+		}
+
+		@media only screen and (width <= 300px) {
+			width: 42%;
+		}
+
+		@media only screen and (width > 736px) {
+			width: 30.5%;
+		}
 		padding: 10px;
-		width: 30.5%;
+
 		.post-link {
 			font-size: 12px;
 		}
