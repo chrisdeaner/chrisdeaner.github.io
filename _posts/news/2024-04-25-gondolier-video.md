@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gondolier Single and Video"
-date: 2024-04-25 10:00:00 -0400
+date: 2024-04-25 10:00:00 -0500
 tags: news
 excerpt_separator: <!--more-->
 ---
