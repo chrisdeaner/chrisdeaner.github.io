@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 Hi there! Here comes the second single and video from [Further Afield](/further-afield/)! It's called Gondolier. It's a doozy - hope you like it!
 
 <div class="video-container">
-    <iframe width="100%" height="473px" src="https://youtu.be/Fi9gp52e68Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="473px" src="https://www.youtube.com/embed/Fi9gp52e68Y?si=XijRoRUpYDIUlRsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <!--more-->
