@@ -10,7 +10,5 @@ layout: home
 -   LP Available May 31, 2024!
     -   [Pre-order from EJRC here](https://ernestjenning.limitedrun.com/products/778312)
     -   [Pre-order on Bandcamp here](https://plusminusnyc.bandcamp.com/album/further-afield)
--   First Single: Borrowed Time
-    -   [Check out the Video!](https://youtu.be/UJKDO7uQCeM)
--   Second Single: Gondolier
-    -   [Check out the Video!](https://youtu.be/Fi9gp52e68Y)
+-   1<sup>st</sup> Single: Borrowed Time ([Video](https://youtu.be/UJKDO7uQCeM))
+-   2<sup>nd</sup> Single: Gondolier ([Video](https://youtu.be/Fi9gp52e68Y))
