@@ -34,7 +34,7 @@ EU
 [Season of Mist](https://shop.season-of-mist.com/plus-minus-further-afield-lp-coloured)
 
 
-Hope that helps! Shipping from the US can be prohibitive.
+Hope that helps! We know shipping from the US of A can be a bit prohibitive!
 
 Want the CD?  That'll have to come from [7ep in Japan](https://7eptokyo.bandcamp.com/album/further-afield-cd-digital).  Stay tuned - we may be able to work something out here!
 
