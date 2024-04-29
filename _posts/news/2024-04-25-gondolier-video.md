@@ -16,7 +16,7 @@ you like it!
 
 About the song: We've been threatening to make a dance record for years. In
 fact, we've probably begun every record thinking it'd be cool to make a dance
-reocrd. But our innate sensibilities take over and ... <!--more--> it just comes
+record. But our innate sensibilities take over and ... <!--more--> it just comes
 out as +/- {Plus/Minus}. Nothing wrong with that - but what if we actually stuck
 to it? So this was one of those attempts. As it happened, James bought this
 little keyboard, the
@@ -26,11 +26,11 @@ up with. James took this and used it as the basis of the song.
 
 Initially, the skeleton of the song was just a couple of verses and then a long
 instrumental solo created on the OP-Z. James reworked the verses a bit, came up
-with the melody, and reworked the instrumental to build more and it seemed like
+with the melody, and adjusted the instrumental to build more and it seemed like
 that would be it... but we still felt the song had somewhere else to go... where
 we went was an electronic world of synthesizers and drum machines while still
 keeping our 4-on-the-floor beat. Lots of vocals! Oohs and Aahs! We thought we
-were done at this point (it was probably a reasonable 5 minute song at this
+were done (it was probably a reasonable 5 minute song at this
 point), but James had one more section to dance to. Things quieted down... we
 tried to throw in as many acoustic instruments as we had into the mix. At nearly
 7 minutes, this is the longest song we've ever written. We count it among our
