@@ -11,7 +11,7 @@ Hello!
 Would you like to buy our vinyl in Europe?  Would you like to support a European
 shop?  We've got you covered below!
 
-<img source="assets/img/full/plumu-mock-up-rb.jpg"/>
+<img source="/assets/img/full/plumu-mock-up-rb.jpg"/>
 
 Here are some shops to contact to pre-order:
 
