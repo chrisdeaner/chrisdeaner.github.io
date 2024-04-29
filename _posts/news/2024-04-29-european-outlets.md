@@ -13,6 +13,8 @@ shop?  We've got you covered below!
 
 <a href="/assets/img/full/plumu-mock-up-rb.jpg" alt="Full res version"><img src="/assets/img/full/plumu-mock-up-rb.jpg"/></a>
 
+<!--more-->
+
 Here are some shops to contact to pre-order:
 
 UK
