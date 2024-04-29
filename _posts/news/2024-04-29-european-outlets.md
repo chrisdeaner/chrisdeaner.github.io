@@ -6,12 +6,12 @@ tags: news
 excerpt_separator: <!--more-->
 ---
 
+<a href="/assets/img/full/plumu-mock-up-rb.jpg" alt="Full res version"><img src="/assets/img/full/plumu-mock-up-rb.jpg"/></a>
+
 Hello!
 
-Would you like to buy our vinyl in Europe?  Would you like to support a European
-shop?  We've got you covered below!
-
-<a href="/assets/img/full/plumu-mock-up-rb.jpg" alt="Full res version"><img src="/assets/img/full/plumu-mock-up-rb.jpg"/></a>
+Would you like to buy our vinyl in Europe? Would you like to support a European
+shop? We've got you covered, read how below!
 
 <!--more-->
 
@@ -35,9 +35,10 @@ EU
 
 [Season of Mist](https://shop.season-of-mist.com/plus-minus-further-afield-lp-coloured)
 
-
 Hope that helps! We know shipping from the US of A can be a bit prohibitive!
 
-Want the CD?  That'll have to come from [7ep in Japan](https://7eptokyo.bandcamp.com/album/further-afield-cd-digital).  Stay tuned - we may be able to work something out here!
+Want the CD? That'll have to come from
+[7ep in Japan](https://7eptokyo.bandcamp.com/album/further-afield-cd-digital).
+Stay tuned - we may be able to work something out here!
 
 That's all for now - +/-
