@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Want to buy pre-order our new LP in Europe?"
+title: "Want to pre-order/buy our new LP in Europe?"
 date: 2024-04-29 06:00:00 -0500
 tags: news
 excerpt_separator: <!--more-->
