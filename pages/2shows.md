@@ -17,7 +17,6 @@ permalink: /shows/
     {% assign isPast = false %}
     {% assign haveCurrentShows = false %}
     {% assign now = "now" | date: "%s" | times: 1 %}
-    {{ now }}
     {% for show in site.data.shows %}
         {% assign showDate = show.date | date: "%s" | times: 1 %}
 
@@ -38,7 +37,7 @@ permalink: /shows/
             {% assign month = newMonth %}
             <div id="month" {{ class }}>{{ month }}</div>
         {% endif %}
-        {{ showDate }}<div id="show" {{ class }}>{{ show.date | date: "%d" }} {{ show.venue }} ({{show.location}}) {{ show.lineup }}</div>
+        <div id="show" {{ class }}>{{ show.date | date: "%d" }} {{ show.venue }} ({{show.location}}) {{ show.lineup }}</div>
     {% endfor %}
 
 </ul>
