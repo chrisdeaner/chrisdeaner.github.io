@@ -9,8 +9,8 @@ item_number: "030"
 item_name: "White on Blue Tee Shirt"
 item_type: "Tee Shirt"
 others:
-    "Chang Designs in partnership with +/- {Plus/Minus} is proud to present the
-    Official Further Afield Release Shirt! <br><br> <b>Pre-order</b> now, and
-    we'll make sure your shirt gets to you by mid-June 2024. Be sure to lock
-    yours in because, like all our other t-shirts, this is a limited run!"
+    "+/- {Plus/Minus} is proud to present the Official Further Afield Release
+    Shirt! <br><br> <b>Pre-order</b> now, and we'll make sure your shirt gets to
+    you by mid-June 2024. Be sure to lock yours in because, like all our other
+    t-shirts, this is a limited run!"
 ---
