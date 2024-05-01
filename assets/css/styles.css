@@ -107,6 +107,7 @@ button {
 		margin-bottom: 0;
 	}
 	.items {
+		margin-top: 40px;
 		.container {
 			display: flex;
 			.content-container {
@@ -118,9 +119,14 @@ button {
 				}
 			}
 			.image {
-				width: 120px;
+				width: 400px;
 				padding-top: 12px;
 				cursor: pointer;
+			}
+		}
+		.price {
+			#tee-select {
+				margin-right: 10px;
 			}
 		}
 		.others {

@@ -22,7 +22,6 @@ layout: default
 						/></a>
 					</div>
 					<div class="content-container">
-						<div class="content">{{ post.content }}</div>
 						<div class="price">
 							${{post.price}}
 							<form
@@ -30,6 +29,17 @@ layout: default
 								action="https://www.paypal.com/cgi-bin/webscr"
 								method="post"
 							>
+								{%- if post.item_type == "Tee Shirt"-%}
+								<input type="hidden" name="on0" value="size" />
+								<select name="os0" id="tee-select">
+									<option value="small">SM</option>
+									<option value="medium">MD</option>
+									<option value="large">LG</option>
+									<option value="extra-large">XLG</option>
+								</select>
+
+								{%- endif -%}
+
 								<button>Add To Cart</button>
 								<input type="hidden" name="add" value="1" />
 								<input type="hidden" name="cmd" value="_cart" />
@@ -46,7 +56,7 @@ layout: default
 								<input
 									type="hidden"
 									name="item_number"
-									value="post.item_number"
+									value="{{post.item_number}}"
 								/>
 								<input
 									type="hidden"
