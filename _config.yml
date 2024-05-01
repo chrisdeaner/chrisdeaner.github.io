@@ -37,8 +37,8 @@ plugins:
 show_excerpts: true
 
 # SEO:
-tagline: "Official +/- {plus/minus} Website"
-description: "Official +/- {plus/minus} Website"
+tagline: "Official +/- {Plus/Minus} Website"
+description: "Official +/- {Plus/Minus} Website"
 logo: "assets/img/fa.jpg"
 # Exclude from processing.
 # The following items will not be processed, by default.

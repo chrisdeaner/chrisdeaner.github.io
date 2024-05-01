@@ -1,4 +1,4 @@
-# +/- {plus/minus} website
+# +/- {Plus/Minus} website
 
 ### Running
 
