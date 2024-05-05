@@ -24,9 +24,11 @@ layout: default
 					</a>
 				</h3>
 				<div class="content">{{ post.excerpt }}</div>
+				{% if post.content contains post.excerpt_separator %}
 				<div class="more">
 					<a href="{{ post.url }}">Read more...</a>
 				</div>
+				{%- endif -%}
 			</li>
 			{%- endfor -%}
 		</ul>
