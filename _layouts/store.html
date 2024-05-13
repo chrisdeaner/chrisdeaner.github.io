@@ -11,15 +11,27 @@ layout: default
 			for post in products -%}
 			<li>
 				<h3 id="{{post.title | slugify }}">
+					{%- if post.detail_page -%}
 					<a class="post-link" href="{{ post.detail_page }}">
 						{{ post.title | escape }}
 					</a>
+					{%- else %}
+					<a class="post-link" href="{{ post.image }}">
+						{{ post.title | escape }}
+					</a>
+					{%- endif %}
 				</h3>
 				<div class="container">
 					<div class="image">
+						{%- if post.detail_page -%}
+						<a href="{{post.detail_page}}"
+							><img src="{{post.image}}"
+						/></a>
+						{%- else %}
 						<a href="{{post.image}}"
 							><img src="{{post.image}}"
 						/></a>
+						{%- endif %}
 					</div>
 					<div class="content-container">
 						<div class="price">
@@ -37,7 +49,6 @@ layout: default
 									<option value="large">LG</option>
 									<option value="extra-large">XLG</option>
 								</select>
-
 								{%- endif -%}
 
 								<button>Add To Cart</button>
