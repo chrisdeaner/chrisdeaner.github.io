@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Further Afield
 
 <div id="release-info">
-    <b>General Vinyl Release</b>. Releasing May 31st, 2024 on <a href="https://ejrc.com">Ernest Jenning Record Co</a><br/>
+    <b>General Vinyl Release</b>. Releasing May 31st, 2024 on <a href="https://www.ernestjenning.com/products/778312-plus-minus-further-afield">Ernest Jenning Record Co</a><br/>
 </div>
 <div id="container">
     <div id="release-container">
