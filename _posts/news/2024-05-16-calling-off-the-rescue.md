@@ -31,10 +31,11 @@ way to keep a song natural is not to force it, we shelved it.
 
 A few years later we were messing around on guitars and drums in the studio and
 happened upon a chord progression that because of its similar major minor
-feeling key, thought it might slot in well with the original piece.  In marrying 
-the two parts, the new part became the verse and the rest of composition came
-together relatiely quickly. Then Covid hit so it wouldn’t see the light of day
-for another 5 years. Well 8 years if you’re counting.
+feeling key, thought it might slot in well with the original piece.  It worked 
+and in marrying the two parts, the verse of the song became clear, and the
+rest of composition seemd to come together relatively quickly. But then Covid hit
+so it wouldn’t see the light of day for another 5 years. Well 8 years if you’re 
+counting.
 
 The track also features Patrick’s daughter’s former high school treble chorus.
 He had shared a video of a beautiful performance of theirs and James suggested
