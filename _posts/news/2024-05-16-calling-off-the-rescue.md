@@ -23,19 +23,18 @@ video based four-track recorder for your phone. The guitar lead melody has a
 sort of natural and effortless quality to it which we wanted to preserve and
 maintain for the whole song. Because of that, it took some time for the complete
 composition to take shape. In its early form it went through several iterations
-that we weren’t satisfied with. They were much mellower and Chris had an
+that we were dissatisfied with. They were much mellower and Chris had an
 entirely different drum beat. Patrick also demoed several acoustic versions at
 home on Voice Memo, chiseling away at it by trying different chord progressions
-and vocal melodies, but found them all ineffective. Because sometimes the best
+and vocal melodies, but again found them all ineffective. Because sometimes the best
 way to keep a song natural is not to force it, we shelved it.
 
 A few years later we were messing around on guitars and drums in the studio and
 happened upon a chord progression that because of its similar major minor
-feeling key, we thought might slot in well with the original piece. This new
-chord progression became the verse in the song. Once marrying the two parts, it
-came together pretty quickly. Then Covid hit so it wouldn’t see the light of day
-for another 5 years. Well 8 years if you’re counting from the moment of
-inspiration.
+feeling key, thought it might slot in well with the original piece.  In marrying 
+the two parts, the new part became the verse and the rest of composition came
+together relatiely quickly. Then Covid hit so it wouldn’t see the light of day
+for another 5 years. Well 8 years if you’re counting.
 
 The track also features Patrick’s daughter’s former high school treble chorus.
 He had shared a video of a beautiful performance of theirs and James suggested
