@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
-{% assign discography = site.posts | where: 'tags', 'discography' %}
-{%- for post in discography -%}
-	{%- if post.url == page.url -%}
-		{% assign previous = forloop.index | minus: 2 %}
-		{% assign nextUrl = discography[forloop.index].url %}
-		{% assign previousUrl = discography[previous].url %}
-		{% break %}
-	{%- endif -%}
-{%- endfor -%}
+
+{% assign discography = site.posts | where: 'tags', 'discography' %} {%- for
+post in discography -%} {%- if post.url == page.url -%} {% assign previous =
+forloop.index | minus: 2 %} {% assign nextUrl = discography[forloop.index].url
+%} {% assign previousUrl = discography[previous].url %} {% break %} {%- endif
+-%} {%- endfor -%}
 
 <article id="album">
 	<div class="chronology">
@@ -18,3 +15,9 @@ layout: default
 	</div>
 	<div class="post-content">{{ content }}</div>
 </article>
+
+<script>
+	function btnClick(url) {
+		window.location.href = url;
+	}
+</script>

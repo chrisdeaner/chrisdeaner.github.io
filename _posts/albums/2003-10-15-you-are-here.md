@@ -46,9 +46,9 @@ excerpt_separator: <!--more-->
         <div id="artwork">
             <a href="/assets/img/full/yah-us1.jpg" alt="Full res version"><img src="/assets/img/opt/yah-us1.jpg"/></a>
             <div id="buy-album-btn">
-                <div class="button-sm">
-                    <a href="/store/#you-are-here-vinyl">Buy It</a>
-                </div>
+                <button class="button-sm" onclick="btnClick('/store/#you-are-here-vinyl')">
+                    Buy Now
+                </button>
             </div>
         </div>
         <div id="tracklist">

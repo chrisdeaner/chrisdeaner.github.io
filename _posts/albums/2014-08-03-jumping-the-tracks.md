@@ -21,9 +21,9 @@ excerpt_separator: <!--more-->
         <div id="artwork">
             <a href="/assets/img/full/jtt.jpg" alt="Full res version"><img src="/assets/img/opt/jtt.jpg"/></a>
             <div id="buy-album-btn">
-                <div class="button-sm">
-                    <a href="/store/#jumping-the-tracks-vinyl">Buy It</a>
-                </div>
+                <button class="button-sm" onclick="btnClick('/store/#jumping-the-tracks-vinyl')">
+                    Buy Now
+                </button>
             </div>
         </div>
         <div id="tracklist">

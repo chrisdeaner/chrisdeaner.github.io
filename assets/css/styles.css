@@ -85,7 +85,6 @@ button {
 			font-size: 14px;
 			.button-sm {
 				display: inline;
-				margin-left: 8px;
 			}
 		}
 		#shows-header {

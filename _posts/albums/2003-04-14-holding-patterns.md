@@ -21,9 +21,9 @@ excerpt_separator: <!--more-->
         <div id="artwork">
             <a href="/assets/img/full/hp.jpg" alt="Full res version"><img src="/assets/img/opt/hp.jpg"/></a>
             <div id="buy-album-btn">
-                <div class="button-sm">
+                <button class="button-sm">
                     <a href="/store/#holding-patterns">Buy It</a>
-                </div>
+                </button>
             </div>
         </div>
         <div id="tracklist">
@@ -37,6 +37,7 @@ excerpt_separator: <!--more-->
             </ol>
         </div>
     </div>
+
 </div>
 
 <div id="release-info">

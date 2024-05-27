@@ -20,9 +20,9 @@ excerpt_separator: <!--more-->
         <div id="artwork">
             <a href="/assets/img/full/lbaf.jpg" alt="Full res version"><img src="/assets/img/opt/lbaf.jpg"/></a>
             <div id="buy-album-btn">
-                <div class="button-sm">
-                    <a href="/store/#lets-build-a-fire-cd">Buy It</a>
-                </div>
+                <button class="button-sm" onclick="btnClick('/store/#lets-build-a-fire-cd')">
+                    Buy Now
+                </button>
             </div>
         </div>
         <div id="tracklist">

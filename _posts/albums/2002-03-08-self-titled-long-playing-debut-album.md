@@ -78,9 +78,9 @@ excerpt_separator: <!--more-->
         <div id="artwork">
             <a href="/assets/img/full/stlpda3.jpg" alt="Full res version"><img src="/assets/img/opt/stlpda3.jpg"/></a>
             <div id="buy-album-btn">
-                <div class="button-sm">
+                <button class="button-sm">
                     <a href="/store/#self-titled-long-playing-debut-album-cd">Buy It</a>
-                </div>
+                </button>
             </div>
         </div>
         <div id="tracklist">

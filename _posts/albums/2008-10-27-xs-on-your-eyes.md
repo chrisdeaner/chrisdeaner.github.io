@@ -20,9 +20,9 @@ excerpt_separator: <!--more-->
         <div id="artwork">
             <a href="/assets/img/full/xoye.jpg" alt="Full res version"><img src="/assets/img/opt/xoye.jpg"/></a>
             <div id="buy-album-btn">
-                <div class="button-sm">
-                    <a href="/store/#xs-on-your-eyes-cd">Buy It</a>
-                </div>
+                <button class="button-sm" onclick="btnClick('/store/#xs-on-your-eyes-cd')">
+                    Buy Now
+                </button>
             </div>
         </div>
         <div id="tracklist">
