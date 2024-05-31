@@ -19,4 +19,20 @@ It's best to start with small audio file until you get your desired output, then
 run the script on the entire song. A 5 sec snippet of Intentionally Left Blank
 was included here as a starting point.
 
+### Getting Started
+
+You'll need [ffmpeg](https://ffmpeg.org/) installed on your system.
+
+Open up a bash shell and run:
+
+```bash
+./spectro.sh
+```
+
+That's it. If you want to run the program on a file other than the default
+`ILB-sample.wav`, edit line 4 of `spectro.sh` to point to the file of your
+choosing.
+
+Enjoy!
+
 License: MIT License.
