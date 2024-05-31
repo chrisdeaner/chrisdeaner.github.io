@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Further Afield
 
 <div id="release-info">
-    <b>General Vinyl Release</b>. Releasing May 31st, 2024 on <a href="https://www.ernestjenning.com/products/778312-plus-minus-further-afield">Ernest Jenning Record Co</a><br/>
+    <b>General Vinyl Release</b>. Released May 31st, 2024 on <a href="https://www.ernestjenning.com/products/778312-plus-minus-further-afield">Ernest Jenning Record Co</a><br/>
 </div>
 <div id="container">
     <div id="release-container">
@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
             <a href="/assets/img/full/fa.jpg" alt="Full res version"><img src="/assets/img/opt/fa.jpg"/></a>
             <div id="buy-album-btn">
                 <button class="button-sm" onclick="btnClick('https://ernestjenning.limitedrun.com/products/778312')">
-                    Pre-order
+                    Order Here
                 </button>
             </div>
         </div>
@@ -44,7 +44,7 @@ excerpt_separator: <!--more-->
 </div>
 
 <div id="release-info">
-    <b>Japanese CD Release</b>. Releasing May 31st, 2024 on <a href="http://7ep.net/">7ep</a> Japan.
+    <b>Japanese CD Release</b>. Released May 31st, 2024 on <a href="http://7ep.net/">7ep</a> Japan.
 </div>
 <div id="container">
     <div id="release-container">
