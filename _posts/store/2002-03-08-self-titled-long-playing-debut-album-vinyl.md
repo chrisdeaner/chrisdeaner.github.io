@@ -5,7 +5,7 @@ date: 2002-03-08 20:30:54 -0500
 tags: product
 detail_page: "/self-titled-long-playing-debut-album/"
 image: "/assets/img/opt/stlpda.jpg"
-price: "10.00"
+price: "12.00"
 item_number: "014"
 item_name: "Self-Titled Long-Playing Debut Album [CD]"
 item_type: "CD"
