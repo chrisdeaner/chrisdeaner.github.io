@@ -24,8 +24,6 @@ Show!! w/ Jason Loewenstein
 
 06/01 <a href="https://www.union-pool.com/">Union Pool</a> (Brooklyn, NY) RECORD
 RELEASE PARTY!! w/ Jason Loewenstein & Heaven.
-<button onclick="btnClick('https://link.dice.fm/Ke19e2568157')">Buy
-Tickets</button>
 
 We’d love to see you!
 

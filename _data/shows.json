@@ -1,15 +1,15 @@
 [
 	{
+		"date": "1 June 2024",
+		"venue": "<a href=\"http://www.union-pool.com/\">Union Pool</a>",
+		"location": "Brooklyn, Ny",
+		"lineup": "<b>ALBUM RELEASE PARTY!!</b> w/ Jason Loewenstein & <a href=\"https://linktr.ee/heavennyc/\">Heaven</a>"
+	},
+	{
 		"date": "31 May 2024",
 		"venue": "<a href=\"https://www.givemyrtle.com/\">Myrtle</a>",
 		"location": "Providence, Ri",
 		"lineup": "Free Show!! w/ Jason Loewenstein & TBD"
-	},
-	{
-		"date": "1 June 2024",
-		"venue": "<a href=\"http://www.union-pool.com/\">Union Pool</a>",
-		"location": "Brooklyn, Ny",
-		"lineup": "<b>ALBUM RELEASE PARTY!!</b> w/ Jason Loewenstein & <a href=\"https://linktr.ee/heavennyc/\">Heaven</a> <button onclick=\"btnClick('https://link.dice.fm/Ke19e2568157')\">Buy Tickets</button>"
 	},
 	{
 		"date": "28 April 2024",
