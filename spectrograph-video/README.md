@@ -10,8 +10,8 @@ approximately one minute.
 
 This process takes a while because the script goes through these processes:
 
--   Break an sudio file into .2 second chunks
--   Create a high quality spectrograph image of each of those chunks (this takes
+-   Break an audio file into .2-second chunks
+-   Create a high-quality spectrograph image of each of those chunks (this takes
     the most time)
 -   Combine images to form a video
 
