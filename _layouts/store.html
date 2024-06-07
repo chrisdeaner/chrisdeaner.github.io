@@ -44,10 +44,9 @@ layout: default
 								{%- if post.item_type == "Tee Shirt"-%}
 								<input type="hidden" name="on0" value="size" />
 								<select name="os0" id="tee-select">
-									<option value="small">SM</option>
-									<option value="medium">MD</option>
-									<option value="large">LG</option>
-									<option value="extra-large">XLG</option>
+									{% for size in post.item_sizes %} {{size}}
+									<option value="{{size}}">{{size}}</option>
+									{% endfor %}
 								</select>
 								{%- endif -%}
 
