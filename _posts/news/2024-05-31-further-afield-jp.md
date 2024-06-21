@@ -15,6 +15,6 @@ We are super exicited to be able to make this release available to folks
 stateside. We only have a few, so make sure to get your quickly!
 
 If you are in Japan,
-[order from 7ep](https://7eptokyo.bandcamp.com/album/further-afield-cd-digital)).
+[order from 7ep](https://7eptokyo.bandcamp.com/album/further-afield-cd-digital).
 
-As always, thakns for your support!
+As always, thanks for your support!
