@@ -8,7 +8,7 @@ price: "25.00"
 item_number: "030"
 item_name: "White on Blue Tee Shirt"
 item_type: "Tee Shirt"
-item_sizes: ["small", "medium", "extra-large"]
+item_sizes: ["small", "medium", "large"]
 others:
     "The Official Further Afield Release Shirt. <br><br> Be sure to order now
     because, like all our other t-shirts, this is a limited run!"
