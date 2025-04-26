@@ -1,5 +1,41 @@
 [
 	{
+		"date": "21 June 2025",
+		"venue": "<a href=\"https://sleepwalk.nyc/\">Sleepwalk</a>",
+		"location": "Brooklyn, Ny",
+		"lineup": "w/ <a href=\"https://sottovocemusic.bandcamp.com/album/fool-ass\">Sotto Voce</a>"
+	},
+	{
+		"date": "9 June 2025",
+		"venue": "<a href=\"https://www.fever-popo.com/\">FEVER</a>",
+		"location": "Tokyo, Jp",
+		"lineup": "w/ <a href=\"https://toddle.to/\">toddle</a>"
+	},
+	{
+		"date": "8 June 2025",
+		"venue": "<a href=\"https://givemelittlemore.blogspot.com/\">Give me little more.</a>",
+		"location": "Matsumoto, Jp",
+		"lineup": "w/ <a href=\"https://tangingugun.bandcamp.com/album/hokora\">TANGINGUGUN</a>"
+	},
+	{
+		"date": "7 June 2025",
+		"venue": "<a href=\"https://urbanguild.net/\">UrBANGUILD</a>",
+		"location": "Kyoto, Jp",
+		"lineup": "w/ <a href=\"https://toddle.to/\">toddle</a>"
+	},
+	{
+		"date": "6 June 2025",
+		"venue": "<a href=\"https://www.tokuzo.com/\">TOKUZO</a>",
+		"location": "Nagoya, Jp",
+		"lineup": "w/ <a href=\"https://toddle.to/\">toddle</a>"
+	},
+	{
+		"date": "20 September 2024",
+		"venue": "<a href=\"https://wl.seetickets.us/event/labor-of-lovehangover/615316?afflky=Getitrightthefirsttime\">Industry City</a>",
+		"location": "Brooklyn, Ny",
+		"lineup": "The Love Hangover w/ Gramercy Arms, Jessie Kilguss & The Winter Drinks"
+	},
+	{
 		"date": "1 June 2024",
 		"venue": "<a href=\"http://www.union-pool.com/\">Union Pool</a>",
 		"location": "Brooklyn, Ny",
