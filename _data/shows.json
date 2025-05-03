@@ -1,11 +1,5 @@
 [
 	{
-		"date": "21 June 2025",
-		"venue": "<a href=\"https://sleepwalk.nyc/events\">Sleepwalk</a>",
-		"location": "Brooklyn, Ny",
-		"lineup": "w/ <a href=\"https://sottovocemusic.bandcamp.com/album/fool-ass\">Sotto Voce</a>"
-	},
-	{
 		"date": "11 June 2025",
 		"venue": "<a href=\"http://7th-floor.net/\">7th Floor</a>",
 		"location": "Tokyo, Jp",
@@ -34,6 +28,12 @@
 		"venue": "<a href=\"https://www.tokuzo.com/\">TOKUZO</a>",
 		"location": "Nagoya, Jp",
 		"lineup": "w/ <a href=\"https://toddle.to/\">toddle</a> | <a href=\"https://7ep.net/events/plusminus250606/\">Tickets here!</a>"
+	},
+	{
+		"date": "21 June 2025",
+		"venue": "<a href=\"https://sleepwalk.nyc/events\">Sleepwalk</a>",
+		"location": "Brooklyn, Ny",
+		"lineup": "w/ <a href=\"https://sottovocemusic.bandcamp.com/album/fool-ass\">Sotto Voce</a>"
 	},
 	{
 		"date": "20 September 2024",
