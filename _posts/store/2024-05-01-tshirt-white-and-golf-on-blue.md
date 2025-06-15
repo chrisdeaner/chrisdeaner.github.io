@@ -10,6 +10,5 @@ item_name: "White on Blue Tee Shirt"
 item_type: "Tee Shirt"
 item_sizes: ["small", "medium"]
 others:
-    "The Official Further Afield Release Shirt. <br><br> Be sure to order now
-    because, like all our other t-shirts, this is a limited run!"
+    "The Official Further Afield Release Shirt."
 ---
