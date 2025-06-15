@@ -10,6 +10,5 @@ item_name: "White on Black Box Score Shirt"
 item_type: "Tee Shirt"
 item_sizes: ["small", "medium", "large", "extra-large"]
 others:
-    Why 6? Because its our sixth full length album! <br><br> Be sure to grab one
-    soon because, like all our other t-shirts, this is a limited run!
+    Why 6? Because its our sixth full length album!
 ---
