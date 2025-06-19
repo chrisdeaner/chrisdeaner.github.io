@@ -8,7 +8,6 @@ price: "2.00"
 item_number: "033"
 item_name: "Further Afield Sticker"
 item_type: "Sticker"
-item_sizes: ["100mm x 100mm"]
 others:
     A 100mm x 100mm sticker featuring an alternate design for the Further Afield album art.<br/><br/>
     Free with the purchase of any two items!
