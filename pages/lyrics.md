@@ -436,17 +436,14 @@ you can never fall, you've just got it all.
 
 #### Making the Horse Drink
 
-pack your bags  
-and meet me on a plane that leaves today  
-waiting for a heart attack  
-is no reason for you to stay  
-a still life on your bedroom floor  
-stripped down to the bone
+Pack your bags and meet me on a plane that leaves today  
+Waiting for a heart attack is no reason for you to stay  
+A still life on your bedroom floor stripped down to the bone
 
 I'm not dead
 
-So shoot me, I'm no longer scared  
-Take me out, I'm no longer scared
+So shoot me, i'm no longer scared  
+Take me out, i'm no longer scared
 
 Timer's on and going down  
 You need to leave a trace  
@@ -467,25 +464,25 @@ Please save what you have left
 This face on you  
 Listless as you're wont to  
 Choking on fumes  
-The sun in an empty room.
+The sun in an empty room
 
 <h3 id="you-are-here-album">You are Here</h3>
 
 #### Ventriloquist
 
 I am riding in a car  
-please don’t take me back there  
-don’t want the drive to end
+Please don’t take me back there  
+Don’t want the drive to end
 
 I am riding in a car  
-please don’t take this exit  
-and please don’t drop me just yet
+Please don’t take this exit  
+And please don’t drop me just yet
 
-there’s a crash up ahead  
-keep your eyes open  
-gonna get in your head  
-gonna get in yours  
-these ventriloquists.
+There’s a crash up ahead  
+Keep your eyes open  
+Gonna get in your head  
+Gonna get in yours  
+These ventriloquists
 
 #### Surprise!
 
@@ -589,25 +586,22 @@ I only thought the line was going dead.
 #### Megalomaniac
 
 Save me I’m down  
-My story ends  
-Before it begins  
-And maybe  
-When all my sense is gone  
+My story ends before it begins  
+And maybe when all my sense is gone  
 I’ll come before you  
-And so long  
-Cause I can’t keep my head  
+
+And so long! Because I can’t keep my head  
 From all my stupid musing  
-Cause any way you turn  
+And any way you turn  
 There’s someone out for more  
 If I just take these things with me she will
 
 Breathe and sing along  
 Should I?
 
-What’s so wrong  
-With calling for his head  
+What’s so wrong with calling for his head  
 Save for sounding lazy?  
-Cause any way you turn  
+Because any way you turn  
 There’s someone out for more  
 If I just take these things with me she will
 
@@ -915,7 +909,8 @@ Till I find something good
 Hey I’ve become undone  
 I misunderstood  
 Talk like I’m on TV  
-Where’s my mind?&nbsp; Heaven knows who I’ve been
+Where’s my mind? 
+Heaven knows who I’ve been
 
 So hey I’ll be coming down  
 Hard on everything  
@@ -923,7 +918,7 @@ I‘ve been led to believe
 Hope I find something good
 
 I used to be so full of love  
-The important thing is to love.
+The important thing is to love
 
 #### Summer Dress 2 (Iodine)
 
@@ -984,8 +979,7 @@ My soul is mine to keep
 
 But you won’t have me  
 Hell is where I’ll be  
-Alone  
-Alone  
+Alone    
 You’re onto me
 
 Won’t you please condone?  
@@ -995,7 +989,6 @@ My soul’s not yours to take
 
 And you won’t have me  
 Hell is where I’ll be  
-Oh no  
 Oh no  
 I’m onto you.
 
@@ -1071,7 +1064,7 @@ She tries to bring the world out of sleep
 
 Everything  
 She said, “Here is someday. We’ll find some way.”  
-And pulled me in.
+And pulled me in
 
 #### Time and Space
 
@@ -1571,15 +1564,17 @@ I was a child
 They built this monster  
 With their own regrets
 
-A vacuum-like machine  
+A vacuum-like machine! 
 That spins! And drills your head in!  
-Tower? Please come in <crosstalk.> Do you read me?
+Tower? Please come in 
+(crosstalk)
+Do you read me?
 
 All the time you have  
 Won’t come back to you  
 All the time you spend postponed
 
-Centers for disease control  
+Centers for Disease Control  
 Stop the bleeding  
 In the end  
 The king and pawn  
