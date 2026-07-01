@@ -2,10 +2,39 @@
 layout: default
 ---
 
-<div class="shows">{{ content }}</div>
+<div class="shows">
+<div id="shows-search">
+  <input type="text" id="shows-search-input" placeholder="Search shows..." autocomplete="off" />
+</div>
+{{ content }}</div>
 
 <script>
 	function btnClick(url) {
 		window.location.href = url;
 	}
+
+	const searchInput = document.getElementById('shows-search-input');
+	searchInput.addEventListener('keyup', function () {
+		const query = this.value.toLowerCase().trim();
+		const shows = document.querySelectorAll('#show');
+		const months = document.querySelectorAll('#month');
+
+		shows.forEach(function (show) {
+			show.style.display = (!query || show.textContent.toLowerCase().includes(query)) ? '' : 'none';
+		});
+
+		// Hide month headers that have no visible shows after them
+		months.forEach(function (month) {
+			let sibling = month.nextElementSibling;
+			let hasVisible = false;
+			while (sibling && sibling.getAttribute('id') !== 'month' && sibling.getAttribute('id') !== 'shows-header') {
+				if (sibling.getAttribute('id') === 'show' && sibling.style.display !== 'none') {
+					hasVisible = true;
+					break;
+				}
+				sibling = sibling.nextElementSibling;
+			}
+			month.style.display = hasVisible ? '' : 'none';
+		});
+	});
 </script>

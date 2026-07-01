@@ -76,6 +76,22 @@ button {
 	h2 {
 		margin-bottom: 0;
 	}
+	#shows-search {
+		margin-bottom: 16px;
+		input {
+			width: 100%;
+			padding: 7px 10px;
+			font-size: 14px;
+			border: 1px solid #ccc;
+			border-radius: 6px;
+			box-sizing: border-box;
+			background-color: #faf9f6;
+			&:focus {
+				outline: 2px solid #2a7ae2;
+				border-color: #2a7ae2;
+			}
+		}
+	}
 	#container {
 		#month {
 			padding-top: 20px;
