@@ -37,7 +37,7 @@ permalink: /shows/
             {% assign month = newMonth %}
             <div id="month" {{ class }}>{{ month }}</div>
         {% endif %}
-        <div id="show" {{ class }}>{{ show.date | date: "%d" }} {{ show.venue }} ({{show.location}}) {{ show.lineup }}</div>
+        <div id="show" {{ class }}>{{ show.date | date: "%d" }} {{ show.venue }} ({{show.location}}) {{ show.lineup }}{% if show.recording %} | <a href="{{ show.recording }}">&#127911; listen</a>{% endif %}</div>
     {% endfor %}
 
 </ul>

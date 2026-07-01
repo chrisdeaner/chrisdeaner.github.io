@@ -243,7 +243,8 @@
 		"date": "22 September 2010",
 		"venue": "<a href=\"http://www.emptybottle.com/home.html\">The Empty Bottle</a>",
 		"location": "Chicago, Il",
-		"lineup": "w/ <a href=\"http://www.myspace.com/softspeaker\">Soft Speaker</a> and <a href=\"http://www.myspace.com/likepioneers\">Like Pioneers</a>"
+		"lineup": "w/ <a href=\"http://www.myspace.com/softspeaker\">Soft Speaker</a> and <a href=\"http://www.myspace.com/likepioneers\">Like Pioneers</a>",
+		"recording": "https://archive.org/details/ajc00829_plusminus2010-09-22"
 	},
 	{
 		"date": "21 September 2010",
@@ -879,7 +880,8 @@
 		"date": "12 March 2007",
 		"venue": "<a href=\"http://www.subt.net/\">Subterranean</a>",
 		"location": "Chicago, Il",
-		"lineup": "w/ <a href=\"http://www.dylanposa.com/\">Dylan Posa</a>"
+		"lineup": "w/ <a href=\"http://www.dylanposa.com/\">Dylan Posa</a>",
+		"recording": "https://archive.org/details/ajc01012_plus_minus_2007-03-12"
 	},
 	{
 		"date": "11 March 2007",
@@ -981,13 +983,15 @@
 		"date": "25 November 2006",
 		"venue": "<a href=\"http://www.schubas.com/\">Schuba's Tavern</a>",
 		"location": "Chicago, Il",
-		"lineup": "w/ <a href=\"http://www.the-changes.com/\">The Changes</a> (late Show) 21+"
+		"lineup": "w/ <a href=\"http://www.the-changes.com/\">The Changes</a> (late Show) 21+",
+		"recording": "https://archive.org/details/ajc01009_plusminus2006-11-25late"
 	},
 	{
 		"date": "25 November 2006",
 		"venue": "<a href=\"http://www.schubas.com/\">Schuba's Tavern</a>",
 		"location": "Chicago, Il",
-		"lineup": "w/ <a href=\"http://www.the-changes.com/\">The Changes</a> (early Show) All Ages!"
+		"lineup": "w/ <a href=\"http://www.the-changes.com/\">The Changes</a> (early Show) All Ages!",
+		"recording": "https://archive.org/details/ajc01008_plusminus2006-11-25early"
 	},
 	{
 		"date": "24 November 2006",
@@ -1569,7 +1573,8 @@
 		"date": "13 November 2003",
 		"venue": "Schuba's",
 		"location": "Chicago, Il",
-		"lineup": "w/ Written in The Sand, .22"
+		"lineup": "w/ Written in The Sand, .22",
+		"recording": "https://archive.org/details/ajc01051_plusminus2003-11-13"
 	},
 	{
 		"date": "12 November 2003",
@@ -1833,7 +1838,8 @@
 		"date": "11 January 2003",
 		"venue": "The Abbey",
 		"location": "Chicago, Il",
-		"lineup": "w/ Versus and Redline"
+		"lineup": "w/ Versus and Redline",
+		"recording": "https://archive.org/details/ajc00828_plus_minus_2003-01-11"
 	},
 	{
 		"date": "10 January 2003",
