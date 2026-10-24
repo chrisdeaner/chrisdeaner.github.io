@@ -3889,6 +3889,51 @@
     ]
   },
   {
+    "id": "photos-bandPhotos-gallery",
+    "type": "tour-photos",
+    "photosPageOnly": true,
+    "mmdd": "10-04",
+    "year": 2006,
+    "dateDisplay": "2003–2008",
+    "title": "What We Look Like (Band & Studio Photos)",
+    "location": "New York, NY / On the Road",
+    "archive": "What We Look Like (Band Photos)",
+    "photos": [
+      "/assets/img/tour-photos/bandPhotos/01-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/02-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/03-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/04-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/07_chrisShakersLg.jpg",
+      "/assets/img/tour-photos/bandPhotos/08_patWindowMic.jpg",
+      "/assets/img/tour-photos/bandPhotos/09_jamesSpaceNoContrast.jpg",
+      "/assets/img/tour-photos/bandPhotos/jamesAcoustic.jpg",
+      "/assets/img/tour-photos/bandPhotos/10_chrisTamb.jpg",
+      "/assets/img/tour-photos/bandPhotos/DSC_6988.jpg",
+      "/assets/img/tour-photos/bandPhotos/DSC_7048.jpg",
+      "/assets/img/tour-photos/bandPhotos/myBus.jpg",
+      "/assets/img/tour-photos/bandPhotos/mySneeze.jpg",
+      "/assets/img/tour-photos/bandPhotos/plus_minus_fall_2003.jpg",
+      "/assets/img/tour-photos/bandPhotos/plusminus_hires_02.jpg"
+    ],
+    "allPhotos": [
+      "/assets/img/tour-photos/bandPhotos/01-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/02-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/03-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/04-promo-08.jpg",
+      "/assets/img/tour-photos/bandPhotos/07_chrisShakersLg.jpg",
+      "/assets/img/tour-photos/bandPhotos/08_patWindowMic.jpg",
+      "/assets/img/tour-photos/bandPhotos/09_jamesSpaceNoContrast.jpg",
+      "/assets/img/tour-photos/bandPhotos/jamesAcoustic.jpg",
+      "/assets/img/tour-photos/bandPhotos/10_chrisTamb.jpg",
+      "/assets/img/tour-photos/bandPhotos/DSC_6988.jpg",
+      "/assets/img/tour-photos/bandPhotos/DSC_7048.jpg",
+      "/assets/img/tour-photos/bandPhotos/myBus.jpg",
+      "/assets/img/tour-photos/bandPhotos/mySneeze.jpg",
+      "/assets/img/tour-photos/bandPhotos/plus_minus_fall_2003.jpg",
+      "/assets/img/tour-photos/bandPhotos/plusminus_hires_02.jpg"
+    ]
+  },
+  {
     "id": "show-2024-09-20-industry-city",
     "type": "show-throwback",
     "mmdd": "09-20",
@@ -9747,12 +9792,138 @@
     "storeUrl": null
   },
   {
+    "id": "video-2003-11-28-trapped-under-ice-floes",
+    "type": "video-archive",
+    "mmdd": "11-28",
+    "year": 2003,
+    "dateDisplay": "28 November 2003",
+    "title": "November 28, 2003 — “Trapped Under Ice Floes” (Official Video Premiere)",
+    "trackTitle": "Trapped Under Ice Floes",
+    "director": "Chris Deaner",
+    "albumTitle": "You Are Here (2003)",
+    "albumUrl": "/you-are-here/",
+    "youtubeEmbed": "https://www.youtube.com/embed/2gWZh7-21Ek",
+    "quote": "oh and we've posted our videos for 'trapped under ice floes' and 'she's got your eyes' on the listen page. check out the theoretical av stylings of chris deaner."
+  },
+  {
+    "id": "video-2004-03-03-yo-yo-yo",
+    "type": "video-archive",
+    "mmdd": "03-03",
+    "year": 2004,
+    "dateDisplay": "3 March 2004",
+    "title": "March 3, 2004 — “Yo Yo Yo (Please Don't Fall in Love)” (Official Video Premiere)",
+    "trackTitle": "Yo Yo Yo (Please Don't Fall in Love)",
+    "director": "Orrin Anderson",
+    "albumTitle": "You Are Here (2003)",
+    "albumUrl": "/you-are-here/",
+    "youtubeEmbed": "https://www.youtube.com/embed/7c8nxAOUy-s",
+    "quote": "lastly, we'd like to point you to a couple new items on the site: 1. a lovely video for yo yo yo (please don't fall in love) by orrin anderson. thanks orrin."
+  },
+  {
+    "id": "video-2004-04-08-shes-got-your-eyes",
+    "type": "video-archive",
+    "mmdd": "04-08",
+    "year": 2004,
+    "dateDisplay": "8 April 2004",
+    "title": "April 8, 2004 — “She's Got Your Eyes” Debuts on MTV Japan",
+    "trackTitle": "She's Got Your Eyes",
+    "director": "Chris Deaner",
+    "albumTitle": "Holding Patterns (2003)",
+    "albumUrl": "/holding-patterns/",
+    "youtubeEmbed": "https://www.youtube.com/embed/vhVWqsbHgFA",
+    "quote": "our video for 'she's got your eyes' recently debuted on mtv japan. if you can understand japanese and can figure out a way to request that they play it - please do so. we're really excited about the video being shown!"
+  },
+  {
+    "id": "video-2005-10-03-megalomaniac",
+    "type": "video-archive",
+    "mmdd": "10-03",
+    "year": 2005,
+    "dateDisplay": "3 October 2005",
+    "title": "October 3, 2005 — “Megalomaniac” (Official Video Premiere)",
+    "trackTitle": "Megalomaniac",
+    "director": "Chris Deaner",
+    "albumTitle": "You Are Here (2003)",
+    "albumUrl": "/you-are-here/",
+    "youtubeEmbed": "https://www.youtube.com/embed/0JfGAX_V_FA",
+    "quote": "in other news, we've posted a new video for megalomaniac, once again executed, er, directed by in house video savant, chris deaner. check it out!"
+  },
+  {
+    "id": "video-2006-01-26-steal-the-blueprints",
+    "type": "video-archive",
+    "mmdd": "01-26",
+    "year": 2006,
+    "dateDisplay": "26 January 2006",
+    "title": "January 26, 2006 — “Steal the Blueprints” (Official Video Premiere)",
+    "trackTitle": "Steal the Blueprints",
+    "director": "Chris Deaner",
+    "albumTitle": "Let's Build a Fire (2005)",
+    "albumUrl": "/lets-build-a-fire/",
+    "youtubeEmbed": "https://www.youtube.com/embed/NzZboxN_9no",
+    "quote": "in house video artiste chris deaner, with the help of some friends, has put together the first video for the record. we're proud to present the video for 'steal the blueprints'."
+  },
+  {
+    "id": "video-2006-07-06-steal-the-blueprints-remix",
+    "type": "video-archive",
+    "mmdd": "07-06",
+    "year": 2006,
+    "dateDisplay": "6 July 2006",
+    "title": "July 6, 2006 — “Steal the Blueprints (Remix)” Screens at the 29th NY Asian American International Film Festival",
+    "trackTitle": "Steal the Blueprints (Remix)",
+    "director": "Chris Deaner (remixed by My Active Driveway)",
+    "albumTitle": "Self-Titled Debut Video Disc (2007)",
+    "albumUrl": "/self-titled-debut-video-disc/",
+    "youtubeEmbed": "https://www.youtube.com/embed/MRilLZhfWdY",
+    "quote": "be sure to check out screenings of our video for 'steal the blueprints' at the 29th New York Asian American International Film Festival on July 15 and/or July 20. The video, by in house video guru Chris Deaner, has been 'remixed' by the lovely people at My Active Driveway."
+  },
+  {
+    "id": "video-2006-08-08-ive-been-lost",
+    "type": "video-archive",
+    "mmdd": "08-08",
+    "year": 2006,
+    "dateDisplay": "8 August 2006",
+    "title": "August 8, 2006 — “I've Been Lost” Wins Top Honors at the 29th NY Asian American International Film Festival",
+    "trackTitle": "I've Been Lost",
+    "director": "Three21 Media",
+    "albumTitle": "As Seen on Television (2004)",
+    "albumUrl": "/as-seen-on-television/",
+    "youtubeEmbed": "https://www.youtube.com/embed/wq0rjSRn_wk",
+    "quote": "last but not least - Three21 Media's video for 'i've been lost' took home top honors at the 29th New York Asian American International Film Festival. +/-"
+  },
+  {
+    "id": "video-2007-03-05-fadeout",
+    "type": "video-archive",
+    "mmdd": "03-05",
+    "year": 2007,
+    "dateDisplay": "5 March 2007",
+    "title": "March 5, 2007 — “Fadeout” (Stereogum & SFIAAFF Premiere)",
+    "trackTitle": "Fadeout",
+    "director": "Chris Deaner",
+    "albumTitle": "Let's Build a Fire (2005)",
+    "albumUrl": "/lets-build-a-fire/",
+    "youtubeEmbed": "https://www.youtube.com/embed/uew4jR3nNHs",
+    "quote": "resident video artiste, chris deaner, has finished a new video for fadeout. it's fantastic - and you can check its exclusive web debut on stereogum. if you want to see it on the big screen, it will makes its debut at the 2007 san francisco asian american film festival."
+  },
+  {
+    "id": "video-2008-10-30-snowblind",
+    "type": "video-archive",
+    "mmdd": "10-30",
+    "year": 2008,
+    "dateDisplay": "30 October 2008",
+    "title": "October 30, 2008 — “Snowblind” (Stereogum Video Premiere)",
+    "trackTitle": "Snowblind",
+    "director": "Nancy Mitchell",
+    "albumTitle": "Xs on Your Eyes (2008)",
+    "albumUrl": "/xs-on-your-eyes/",
+    "youtubeEmbed": "https://www.youtube.com/embed/GXSrMSVQxJQ",
+    "quote": "heading to kyoto today and noticed that stereogum has the new snowblind video up. it's directed by the lovely and talented nancy mitchell. far out. check it out. +/-"
+  },
+  {
     "id": "video-2012-04-16-industrial-revolution",
     "type": "video-archive",
     "mmdd": "04-16",
     "year": 2012,
     "dateDisplay": "16 April 2012",
-    "title": "April 16, 2012 — The Industrial Revolution (Live at the Rehearsal Space)",
+    "title": "April 16, 2012 — “The Industrial Revolution” (Live at the Rehearsal Space)",
     "trackTitle": "The Industrial Revolution",
     "albumTitle": "Self-Titled Long-Playing Debut Album (2002)",
     "albumUrl": "/self-titled-long-playing-debut-album/",
@@ -9765,7 +9936,7 @@
     "mmdd": "07-28",
     "year": 2014,
     "dateDisplay": "28 July 2014",
-    "title": "July 28, 2014 — The Bitterest Pill (The Wild Honey Pie Buzzsession)",
+    "title": "July 28, 2014 — “The Bitterest Pill” (The Wild Honey Pie Buzzsession)",
     "trackTitle": "The Bitterest Pill",
     "albumTitle": "Jumping the Tracks (2014)",
     "albumUrl": "/jumping-the-tracks/",
@@ -9778,12 +9949,165 @@
     "mmdd": "07-28",
     "year": 2014,
     "dateDisplay": "28 July 2014",
-    "title": "July 28, 2014 — Young Once (The Wild Honey Pie Buzzsession)",
+    "title": "July 28, 2014 — “Young Once” (The Wild Honey Pie Buzzsession)",
     "trackTitle": "Young Once",
     "albumTitle": "Jumping the Tracks (2014)",
     "albumUrl": "/jumping-the-tracks/",
     "youtubeEmbed": "https://www.youtube.com/embed/jXhMq1GYKJY",
     "quote": "Recorded live at Virtue and Vice Studios in Brooklyn for The Wild Honey Pie Buzzsessions."
+  },
+  {
+    "id": "video-2017-02-24-jack-nicolson-tokyo",
+    "type": "video-archive",
+    "mmdd": "02-24",
+    "year": 2017,
+    "dateDisplay": "24 February 2017",
+    "title": "February 24, 2017 — “Jack Nicolson” (Live at Shibuya O-Nest w/ Hisako Tabuchi & Takeshi Imoriya)",
+    "trackTitle": "Jack Nicolson (bloodthirsty butchers)",
+    "albumTitle": "+/- vs. bloodthirsty butchers (2005/2007)",
+    "albumUrl": "/plus-minus-vs-bloodthirsty-butchers/",
+    "youtubeEmbed": "https://www.youtube.com/embed/-Rr9HlIqVpM",
+    "quote": "Live performance of bloodthirsty butchers' 'Jack Nicolson' at Shibuya O-Nest in Tokyo with bandmates Hisako Tabuchi (guitar) and Takeshi Imoriya (bass)."
+  },
+  {
+    "id": "video-2020-04-29-isolation-01-just-let-it-pass",
+    "type": "video-archive",
+    "mmdd": "04-29",
+    "year": 2020,
+    "dateDisplay": "29 April 2020",
+    "title": "April 29, 2020 — “Isolation 01: Just Let It Pass”",
+    "trackTitle": "Isolation 01: Just Let It Pass",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Isolation Series (2020)",
+    "albumUrl": "/isolation-series/",
+    "youtubeEmbed": "https://www.youtube.com/embed/P_5gNopfRT4",
+    "quote": "In order to keep writing during COVID lockdowns, we met on Zoom over a number of cocktails and hatched a plan to continue writing and recording via sharing videos—starting with 'Isolation 01: Just Let It Pass.'"
+  },
+  {
+    "id": "video-2020-06-19-isolation-02-single-lens-reflex",
+    "type": "video-archive",
+    "mmdd": "06-19",
+    "year": 2020,
+    "dateDisplay": "19 June 2020",
+    "title": "June 19, 2020 — “Isolation 02: Single Lens Reflex”",
+    "trackTitle": "Isolation 02: Single Lens Reflex",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Isolation Series (2020)",
+    "albumUrl": "/isolation-series/",
+    "youtubeEmbed": "https://www.youtube.com/embed/IEitz9cUWHQ",
+    "quote": "Part two of The Isolation Series—written, recorded, and filmed remotely during the 2020 lockdown and released on Bandcamp to benefit Black Lives Matter and Campaign Zero."
+  },
+  {
+    "id": "video-2020-06-19-isolation-03-unwind",
+    "type": "video-archive",
+    "mmdd": "06-19",
+    "year": 2020,
+    "dateDisplay": "19 June 2020",
+    "title": "June 19, 2020 — “Isolation 03: Unwind”",
+    "trackTitle": "Isolation 03: Unwind",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Isolation Series (2020)",
+    "albumUrl": "/isolation-series/",
+    "youtubeEmbed": "https://www.youtube.com/embed/Rb434w3SCnA",
+    "quote": "Part three of The Isolation Series—written, recorded, and filmed remotely during the 2020 lockdown."
+  },
+  {
+    "id": "video-2024-04-03-borrowed-time",
+    "type": "video-archive",
+    "mmdd": "04-03",
+    "year": 2024,
+    "dateDisplay": "3 April 2024",
+    "title": "April 3, 2024 — “Borrowed Time” (Official Video)",
+    "trackTitle": "Borrowed Time",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Further Afield (2024)",
+    "albumUrl": "/further-afield/",
+    "youtubeEmbed": "https://www.youtube.com/embed/UJKDO7uQCeM",
+    "quote": "All of the footage for this video was shot in near total darkness on a Pixel 7 Pro in astrophotography mode—each one-second loop of video takes nearly 4 minutes to shoot!"
+  },
+  {
+    "id": "video-2024-04-09-borrowed-time-bts",
+    "type": "video-archive",
+    "mmdd": "04-09",
+    "year": 2024,
+    "dateDisplay": "9 April 2024",
+    "title": "April 9, 2024 — Behind the Scenes of “Borrowed Time” (Fun with Astrophotography)",
+    "trackTitle": "Borrowed Time (Behind the Scenes)",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Further Afield (2024)",
+    "albumUrl": "/further-afield/",
+    "youtubeEmbed": "https://www.youtube.com/embed/ANd61hlNnPo",
+    "quote": "See Chris’ latest dance moves as he briefly demonstrates the technique used to film the video for Borrowed Time and what we meant by 'shot in almost complete darkness.'"
+  },
+  {
+    "id": "video-2024-04-25-gondolier",
+    "type": "video-archive",
+    "mmdd": "04-25",
+    "year": 2024,
+    "dateDisplay": "25 April 2024",
+    "title": "April 25, 2024 — “Gondolier” (Official Video)",
+    "trackTitle": "Gondolier",
+    "director": "+/- {Plus/Minus} and Doug Choi",
+    "albumTitle": "Further Afield (2024)",
+    "albumUrl": "/further-afield/",
+    "youtubeEmbed": "https://www.youtube.com/embed/Fi9gp52e68Y",
+    "quote": "We shot in the same location on 3 different days in 3 different seasons—trying our best to maintain the same basic shot in each. Big thanks to Doug Choi for shooting and generally helping us conceptualize this video."
+  },
+  {
+    "id": "video-2024-05-14-calling-off-the-rescue",
+    "type": "video-archive",
+    "mmdd": "05-14",
+    "year": 2024,
+    "dateDisplay": "14 May 2024",
+    "title": "May 14, 2024 — “Calling Off the Rescue” (Official Video)",
+    "trackTitle": "Calling Off the Rescue",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Further Afield (2024)",
+    "albumUrl": "/further-afield/",
+    "youtubeEmbed": "https://www.youtube.com/embed/KbIUbA-2Fas",
+    "quote": "We bought a couple smartphone mounts and pressed record in our rehearsal studio while we worked through the song. We think the energy and enjoyment of playing this piece translates well in the video."
+  },
+  {
+    "id": "video-2024-05-31-intentionally-left-blank",
+    "type": "video-archive",
+    "mmdd": "05-31",
+    "year": 2024,
+    "dateDisplay": "31 May 2024",
+    "title": "May 31, 2024 — “Intentionally Left Blank” (Procedural Spectrograph Video)",
+    "trackTitle": "Intentionally Left Blank",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Further Afield (2024)",
+    "albumUrl": "/further-afield/",
+    "youtubeEmbed": "https://www.youtube.com/embed/-6VBBin0yHo",
+    "quote": "Procedurally generated spectrograph video created using a custom script by +/- {Plus/Minus} for the opening track of Further Afield."
+  },
+  {
+    "id": "video-2024-07-10-contempt",
+    "type": "video-archive",
+    "mmdd": "07-10",
+    "year": 2024,
+    "dateDisplay": "10 July 2024",
+    "title": "July 10, 2024 — “Contempt” (Official Video)",
+    "trackTitle": "Contempt",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Further Afield (2024)",
+    "albumUrl": "/further-afield/",
+    "youtubeEmbed": "https://www.youtube.com/embed/l-ZDKTike98",
+    "quote": "Shot on a Pixel 7 Pro across New York City (Rolf’s, Bangia, Space Ping Pong Lounge & Bar, Cipriani Dolci, Grand Central Oyster Bar, Pod 39 Rooftop Bar, Bierhaus NYC, and Sakagura)."
+  },
+  {
+    "id": "video-2024-09-19-the-pull-from-both-sides",
+    "type": "video-archive",
+    "mmdd": "09-19",
+    "year": 2024,
+    "dateDisplay": "19 September 2024",
+    "title": "September 19, 2024 — “The Pull From Both Sides” (Official Video)",
+    "trackTitle": "The Pull From Both Sides",
+    "director": "+/- {Plus/Minus}",
+    "albumTitle": "Further Afield (2024)",
+    "albumUrl": "/further-afield/",
+    "youtubeEmbed": "https://www.youtube.com/embed/eZbZvPcfQVo",
+    "quote": "Official music video for 'The Pull From Both Sides' from Further Afield."
   },
   {
     "id": "news-2014-07-28",
@@ -9808,19 +10132,6 @@
       "my lord it's been a long time!",
       "we're releasing a new record, jumping the tracks, on teen-beat records february 4, 2014! pre-order the vinyl here! downloads will be available in all the normal places. if you want a cd, we're getting a few from japan. stay tuned!",
       "great to be back +/-"
-    ]
-  },
-  {
-    "id": "news-2012-04-16",
-    "type": "news-archive",
-    "mmdd": "04-16",
-    "year": 2012,
-    "dateDisplay": "16 April 2012",
-    "title": "April 16, 2012",
-    "paragraphs": [
-      "a decade ago (or so) we released our first album: \"self-titled long-playing debut album\". to mark the occasion we took a break from recording to film an impromptu live version of one of the songs from that album. hope you enjoy it.",
-      "the industrial revolution (live at the rehearsal space)",
-      "+/-"
     ]
   },
   {
@@ -9992,20 +10303,6 @@
     ]
   },
   {
-    "id": "news-2009-03-18",
-    "type": "news-archive",
-    "mmdd": "03-18",
-    "year": 2009,
-    "dateDisplay": "18 March 2009",
-    "title": "March 18, 2009",
-    "paragraphs": [
-      "hooray! we're in texas for sxsw. it's a constant struggle here: bbq or mex? the eternal question haunts us wherever we go.",
-      "we're playing a few shows - you should come.",
-      "also, we wanted to let you know that snowblind is npr's song of the day today. cool. thanks npr.",
-      "+/-"
-    ]
-  },
-  {
     "id": "news-2009-02-24",
     "type": "news-archive",
     "mmdd": "02-24",
@@ -10110,19 +10407,6 @@
     ]
   },
   {
-    "id": "news-2008-12-01",
-    "type": "news-archive",
-    "mmdd": "12-01",
-    "year": 2008,
-    "dateDisplay": "1 December 2008",
-    "title": "December 1, 2008",
-    "paragraphs": [
-      "hey!",
-      "snowblind is kexp's song of the day for today! hooray!",
-      "+/-"
-    ]
-  },
-  {
     "id": "news-2008-11-20",
     "type": "news-archive",
     "mmdd": "11-20",
@@ -10147,19 +10431,6 @@
       "we're back from our asian tour. it was a marvelous time. we saw a lot of old friends and made a lot of great new ones. thanks to everyone who came to the shows and special thanks to the organizers: minoru, koji, jimi, orbis, cholle, quark and marie!",
       "we've got a couple east coast shows coming up and we're just excited to come out and play the new songs.",
       "let's talk soon, +/-"
-    ]
-  },
-  {
-    "id": "news-2008-10-30",
-    "type": "news-archive",
-    "mmdd": "10-30",
-    "year": 2008,
-    "dateDisplay": "30 October 2008",
-    "title": "October 30, 2008",
-    "paragraphs": [
-      "hi there!",
-      "heading to kyoto today and noticed that stereogum has the new snowblind video up. it's directed by the lovely and talented nancy mitchell. far out. check it out.",
-      "see you soon +/-"
     ]
   },
   {
@@ -10258,47 +10529,6 @@
       "also, we've added our dvd to the store. so feel free to partake.",
       "laslty, we're playing a couple shows in august. check out our shows page for more details.",
       "ciao, +/-"
-    ]
-  },
-  {
-    "id": "news-2008-06-25",
-    "type": "news-archive",
-    "mmdd": "06-25",
-    "year": 2008,
-    "dateDisplay": "25 June 2008",
-    "title": "June 25, 2008",
-    "paragraphs": [
-      "more pics for you and yours:",
-      "stay tuned...",
-      "oh, also we have some shows coming up. hope to see you there!",
-      "+/-"
-    ]
-  },
-  {
-    "id": "news-2008-06-10",
-    "type": "news-archive",
-    "mmdd": "06-10",
-    "year": 2008,
-    "dateDisplay": "10 June 2008",
-    "title": "June 10, 2008",
-    "paragraphs": [
-      "hello again!",
-      "another picture for your peepers:",
-      "that's all for now, we have to get back to work in the studio. more soon hopefully...",
-      "+/-"
-    ]
-  },
-  {
-    "id": "news-2008-06-06",
-    "type": "news-archive",
-    "mmdd": "06-06",
-    "year": 2008,
-    "dateDisplay": "6 June 2008",
-    "title": "June 6, 2008",
-    "paragraphs": [
-      "hello from the recording studio!",
-      "we are hard at work here, but chris is trying to snap photos whenever possible. below is one from a couple nights ago:",
-      "+/-"
     ]
   },
   {
@@ -10457,20 +10687,6 @@
     ]
   },
   {
-    "id": "news-2006-11-23",
-    "type": "news-archive",
-    "mmdd": "11-23",
-    "year": 2006,
-    "dateDisplay": "23 November 2006",
-    "title": "November 23, 2006",
-    "paragraphs": [
-      "happy thanksgiving!",
-      "we're on the road... but that doesn't mean we're gonna feel sorry for ourselves and not celebrate... we decided to have thanksgiving early and celebrate with our seattle fans... see spin.com for details. thanks seattle!",
-      "+/-",
-      "we've also updated the authentic north american food tour photos... we wish we had taken more of the scrumptious organic chickens we served for thanksgiving, but we were too busy serving it up!"
-    ]
-  },
-  {
     "id": "news-2006-11-06",
     "type": "news-archive",
     "mmdd": "11-06",
@@ -10541,21 +10757,6 @@
       "or you can pick up one directly from us at one of the live shows on our tour.",
       "yay!",
       "love, +/-"
-    ]
-  },
-  {
-    "id": "news-2006-10-15",
-    "type": "news-archive",
-    "mmdd": "10-15",
-    "year": 2006,
-    "dateDisplay": "15 October 2006",
-    "title": "October 15, 2006",
-    "paragraphs": [
-      "wow!",
-      "resident video director (and drummer extraordinaire) chris deaner has won the 7th annual San Diego Asian American Film Festival with his video for \"steal the blueprints\"! a jury awarded it the best video award. apparently, it beat out a black eyed peas video.",
-      "take that fergie!",
-      "+/-",
-      "ps. don't forget about our upcoming listening party (see below) and also our upcoming tour. as always, we'd love to see you."
     ]
   },
   {
@@ -11119,6 +11320,19 @@
       "thanks to everyone who came out to see us on our tour. special thanks to people who travelled considerable distances to see us. we had a great time, but now we're totally exhausted...",
       "just in time to begin work on the next LP! yep, you read that right. it should be due in the fall and should be chock full of all the disjointed +/- fun you've come to expect. stay tuned for a few tidbits from the tour, new press, lyrics (someone asked so...), an album \"teaser\" and perhaps a couple of new york shows."
     ]
+  },
+  {
+    "id": "press-2006-10-15-sdaff-steal-the-blueprints",
+    "type": "press-archive",
+    "mmdd": "10-15",
+    "year": 2006,
+    "dateDisplay": "15 October 2006",
+    "title": "October 15, 2006 — “Steal the Blueprints” Wins Best Video at the 7th Annual San Diego Asian American Film Festival",
+    "feature": "Best Music Video Jury Award — 7th Annual San Diego Asian American Film Festival (dir. Chris Deaner)",
+    "albumTitle": "Let's Build a Fire",
+    "albumUrl": "/lets-build-a-fire/",
+    "youtubeEmbed": "https://www.youtube.com/embed/NzZboxN_9no",
+    "quote": "wow! resident video director (and drummer extraordinaire) chris deaner has won the 7th annual San Diego Asian American Film Festival with his video for \"steal the blueprints\"! a jury awarded it the best video award. apparently, it beat out a black eyed peas video. take that fergie! +/-"
   },
   {
     "id": "press-2009-03-18-npr-snowblind",

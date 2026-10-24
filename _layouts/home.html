@@ -41,6 +41,9 @@ layout: default
 	<div class="lightbox-inner">
 		<img id="lightbox-img" src="" alt="" />
 		<div id="lightbox-caption" class="lightbox-caption"></div>
+		<div class="lightbox-actions">
+			<a id="lightbox-copy-link" class="lightbox-copy-link" href="#" onclick="copyPhotoUrl(event)">Copy URL</a>
+		</div>
 	</div>
 	<button class="lightbox-nav lightbox-next" onclick="stepPhotoLightbox(event, 1)" aria-label="Next">&#8250;</button>
 </div>
@@ -102,6 +105,26 @@ layout: default
 		document.getElementById("lightbox-img").src = target.src;
 		document.getElementById("lightbox-caption").textContent =
 			target.getAttribute("data-caption") || target.alt || "";
+		var copyLink = document.getElementById("lightbox-copy-link");
+		if (copyLink) {
+			copyLink.href = target.src;
+			copyLink.textContent = "Copy URL";
+		}
+	}
+
+	function copyPhotoUrl(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		var copyLink = document.getElementById("lightbox-copy-link");
+		if (!copyLink || !copyLink.href) return;
+		if (navigator.clipboard && navigator.clipboard.writeText) {
+			navigator.clipboard.writeText(copyLink.href).then(function () {
+				copyLink.textContent = "Copied!";
+				setTimeout(function () {
+					copyLink.textContent = "Copy URL";
+				}, 1500);
+			});
+		}
 	}
 
 	function stepPhotoLightbox(e, dir) {
@@ -156,6 +179,7 @@ layout: default
 			"press-archive": { cls: "badge-press", label: "From the +/- Archives &middot; Press &amp; Radio" }
 		};
 		var b = badgeMap[item.type] || badgeMap["show-throwback"];
+		var badgeLabel = item.badgeLabel || b.label;
 		var bodyHtml = "";
 
 		if (item.type === "tour-photos") {
@@ -170,12 +194,17 @@ layout: default
 				})
 				.join("");
 
+			var photoQuoteHtml = item.quote
+				? "<br /><strong>Original Post:</strong> &ldquo;" + escapeHtml(item.quote) + "&rdquo;"
+				: "";
+
 			bodyHtml =
 				'<div class="show-context-card photos-context">' +
 				'<div class="show-context-details">' +
 				"<strong>Date:</strong> " + escapeHtml(item.dateDisplay) + "<br />" +
 				"<strong>Location:</strong> " + escapeHtml(item.location) + "<br />" +
 				"<strong>Archive:</strong> " + escapeHtml(item.archive) +
+				photoQuoteHtml +
 				"</div>" +
 				"</div>" +
 				'<div class="tour-photo-grid">' + photosHtml + "</div>";
@@ -275,11 +304,15 @@ layout: default
 				"</div>" +
 				"</div>";
 		} else if (item.type === "video-archive") {
+			var dirRow = item.director
+				? "<strong>Directed by:</strong> " + escapeHtml(item.director) + "<br />"
+				: "";
 			bodyHtml =
 				'<div class="show-context-card video-context-card">' +
 				'<div class="show-context-details">' +
 				"<strong>Date:</strong> " + escapeHtml(item.dateDisplay) + "<br />" +
 				'<strong>Track:</strong> ' + escapeHtml(item.trackTitle) + ' (from <a href="' + escapeHtml(item.albumUrl) + '">' + escapeHtml(item.albumTitle) + "</a>)<br />" +
+				dirRow +
 				"<strong>Note:</strong> &ldquo;" + escapeHtml(item.quote) + "&rdquo;" +
 				"</div>" +
 				"</div>" +
@@ -294,6 +327,11 @@ layout: default
 				.join("");
 			bodyHtml = '<div class="news-archive-quote">' + pHtml + "</div>";
 		} else if (item.type === "press-archive") {
+			var pressVideoHtml = item.youtubeEmbed
+				? '<div class="video-container">' +
+				  '<iframe width="100%" height="473px" src="' + escapeHtml(item.youtubeEmbed) + '" title="' + escapeHtml(item.title) + '" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>' +
+				  "</div>"
+				: "";
 			bodyHtml =
 				'<div class="show-context-card press-context-card">' +
 				'<div class="show-context-details">' +
@@ -301,13 +339,14 @@ layout: default
 				"<strong>Feature:</strong> " + escapeHtml(item.feature) + ' (from <a href="' + escapeHtml(item.albumUrl) + '">' + escapeHtml(item.albumTitle) + "</a>)<br />" +
 				"<strong>Original Post:</strong> &ldquo;" + escapeHtml(item.quote) + "&rdquo;" +
 				"</div>" +
-				"</div>";
+				"</div>" +
+				pressVideoHtml;
 		}
 
 		return (
 			'<li class="archive-feed-item" id="' + escapeHtml(item.id) + '" data-post-date="' + publishIso + '">' +
 			'<span class="post-meta">' +
-			'<span class="post-badge ' + b.cls + '">' + b.label + "</span>" +
+			'<span class="post-badge ' + b.cls + '">' + badgeLabel + "</span>" +
 			formatShortDate(publishIso) +
 			"</span>" +
 			"<h3>" +
@@ -326,6 +365,7 @@ layout: default
 			.then(function (pool) {
 				var byMmdd = {};
 				pool.forEach(function (item) {
+					if (item.photosPageOnly) return;
 					if (!byMmdd[item.mmdd]) byMmdd[item.mmdd] = [];
 					byMmdd[item.mmdd].push(item);
 				});
@@ -348,6 +388,7 @@ layout: default
 				var selectedEntries = [];
 				var lastType = null;
 				var lastPublishMs = 0;
+				var usedItemIds = {};
 
 				for (var w = 0; w <= maxWeekIdx; w++) {
 					var allWeekCandidates = [];
@@ -362,11 +403,13 @@ layout: default
 						var mmdd = mm + "-" + dd;
 						var matches = byMmdd[mmdd] || [];
 						matches.forEach(function (m) {
-							allWeekCandidates.push({
-								publishIso: slotIso,
-								publishMs: slotDate.getTime(),
-								item: m
-							});
+							if (!usedItemIds[m.id]) {
+								allWeekCandidates.push({
+									publishIso: slotIso,
+									publishMs: slotDate.getTime(),
+									item: m
+								});
+							}
 						});
 					}
 
@@ -402,6 +445,33 @@ layout: default
 							Math.floor(seededRandom(itemSeed) * poolForType.length)
 						];
 
+					if (w === 0) {
+						var stbWinner = pool.find(function (p) {
+							return p.id === "press-2006-10-15-sdaff-steal-the-blueprints";
+						});
+						if (stbWinner) {
+							chosenEntry = {
+								publishIso: "2026-10-15",
+								publishMs: new Date("2026-10-15T00:00:00").getTime(),
+								item: stbWinner
+							};
+							chosenType = stbWinner.type;
+						}
+					} else if (w === 52) {
+						var xoyeRelease = pool.find(function (p) {
+							return p.id === "release-2008-10-15-xs-on-your-eyes";
+						});
+						if (xoyeRelease) {
+							chosenEntry = {
+								publishIso: "2027-10-15",
+								publishMs: new Date("2027-10-15T00:00:00").getTime(),
+								item: xoyeRelease
+							};
+							chosenType = xoyeRelease.type;
+						}
+					}
+
+					usedItemIds[chosenEntry.item.id] = true;
 					lastType = chosenType;
 					lastPublishMs = chosenEntry.publishMs;
 

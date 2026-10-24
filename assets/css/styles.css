@@ -606,6 +606,22 @@ button {
 	font-size: 14px;
 }
 
+.lightbox-actions {
+	margin-top: 6px;
+}
+
+.lightbox-copy-link,
+.lightbox-copy-link:visited {
+	color: #b8afa6;
+	font-size: 12px;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.lightbox-copy-link:hover {
+	color: #ffffff;
+}
+
 .lightbox-close {
 	position: absolute;
 	top: 18px;

@@ -24,6 +24,9 @@ permalink: /photos/
 	<div class="lightbox-inner">
 		<img id="lightbox-img" src="" alt="" />
 		<div id="lightbox-caption" class="lightbox-caption"></div>
+		<div class="lightbox-actions">
+			<a id="lightbox-copy-link" class="lightbox-copy-link" href="#" onclick="copyPhotoUrl(event)">Copy URL</a>
+		</div>
 	</div>
 	<button class="lightbox-nav lightbox-next" onclick="stepPhotoLightbox(event, 1)" aria-label="Next">&#8250;</button>
 </div>
@@ -52,6 +55,26 @@ permalink: /photos/
 		document.getElementById("lightbox-img").src = target.src;
 		document.getElementById("lightbox-caption").textContent =
 			target.getAttribute("data-caption") || target.alt || "";
+		var copyLink = document.getElementById("lightbox-copy-link");
+		if (copyLink) {
+			copyLink.href = target.src;
+			copyLink.textContent = "Copy URL";
+		}
+	}
+
+	function copyPhotoUrl(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		var copyLink = document.getElementById("lightbox-copy-link");
+		if (!copyLink || !copyLink.href) return;
+		if (navigator.clipboard && navigator.clipboard.writeText) {
+			navigator.clipboard.writeText(copyLink.href).then(function () {
+				copyLink.textContent = "Copied!";
+				setTimeout(function () {
+					copyLink.textContent = "Copy URL";
+				}, 1500);
+			});
+		}
 	}
 
 	function stepPhotoLightbox(e, dir) {
@@ -157,6 +180,9 @@ permalink: /photos/
 							})
 							.join("");
 
+						var quoteLine = item.quote
+							? "<br /><strong>Original Post:</strong> &ldquo;" + escapeHtml(item.quote) + "&rdquo;"
+							: "";
 						return (
 							'<div class="tour-day-block" data-archive="' +
 							escapeHtml(item.archive) +
@@ -171,6 +197,7 @@ permalink: /photos/
 							"<br />" +
 							"<strong>Archive:</strong> " +
 							escapeHtml(item.archive) +
+							quoteLine +
 							"</div>" +
 							"</div>" +
 							'<div class="tour-photo-grid">' +
