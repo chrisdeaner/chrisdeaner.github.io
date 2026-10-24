@@ -9,15 +9,15 @@ layout: default
 	</div>
 
 	<div class="news">
-		<ul class="post-list">
+		<ul class="post-list" id="news-post-list">
 			{% assign news = site.posts | where: "tags", "news" %} {%- for post
 			in news -%}
-			<li>
+			<li data-post-date="{{ post.date | date: '%Y-%m-%d' }}">
 				{%- assign date_format = site.minima.date_format | default: "%b
 				%-d, %Y" -%}
-				<span class="post-meta"
-					>{{ post.date | date: date_format }}</span
-				>
+				<span class="post-meta">
+					{{ post.date | date: date_format }}
+				</span>
 				<h3>
 					<a class="post-link" href="{{ post.url | relative_url }}">
 						{{ post.title | escape }}
@@ -35,8 +35,412 @@ layout: default
 	</div>
 </div>
 
+<div id="photo-lightbox" class="photo-lightbox" onclick="closePhotoLightbox(event)">
+	<button class="lightbox-close" onclick="closePhotoLightbox(event)" aria-label="Close">&times;</button>
+	<button class="lightbox-nav lightbox-prev" onclick="stepPhotoLightbox(event, -1)" aria-label="Previous">&#8249;</button>
+	<div class="lightbox-inner">
+		<img id="lightbox-img" src="" alt="" />
+		<div id="lightbox-caption" class="lightbox-caption"></div>
+	</div>
+	<button class="lightbox-nav lightbox-next" onclick="stepPhotoLightbox(event, 1)" aria-label="Next">&#8250;</button>
+</div>
+
 <script>
 	function btnClick(url) {
 		window.location.href = url;
 	}
+
+	function playArchiveTrack(playerId, liEl) {
+		var audio = document.getElementById("audio-" + playerId);
+		var titleEl = document.getElementById("np-title-" + playerId);
+		var listEl = document.getElementById("tracklist-" + playerId);
+		if (!audio || !liEl) return;
+		var items = listEl.querySelectorAll(".archive-track");
+		items.forEach(function (item) {
+			item.classList.remove("active");
+		});
+		liEl.classList.add("active");
+		audio.src = liEl.getAttribute("data-mp3");
+		if (titleEl) {
+			titleEl.textContent = liEl.getAttribute("data-title");
+		}
+		audio.play();
+	}
+
+	function bindArchivePlayers() {
+		document.querySelectorAll(".archive-player").forEach(function (player) {
+			if (player.getAttribute("data-bound") === "1") return;
+			player.setAttribute("data-bound", "1");
+			var playerId = player.getAttribute("data-player-id");
+			var audio = document.getElementById("audio-" + playerId);
+			var listEl = document.getElementById("tracklist-" + playerId);
+			if (!audio || !listEl) return;
+			audio.addEventListener("ended", function () {
+				var current = listEl.querySelector(".archive-track.active");
+				if (current && current.nextElementSibling) {
+					playArchiveTrack(playerId, current.nextElementSibling);
+				}
+			});
+		});
+	}
+
+	var currentLightboxGroup = [];
+	var currentLightboxIdx = 0;
+
+	function openPhotoLightbox(imgEl) {
+		var strip = imgEl.closest(".tour-photo-grid");
+		if (!strip) return;
+		currentLightboxGroup = Array.from(strip.querySelectorAll("img"));
+		currentLightboxIdx = currentLightboxGroup.indexOf(imgEl);
+		updatePhotoLightbox();
+		document.getElementById("photo-lightbox").classList.add("open");
+	}
+
+	function updatePhotoLightbox() {
+		var target = currentLightboxGroup[currentLightboxIdx];
+		if (!target) return;
+		document.getElementById("lightbox-img").src = target.src;
+		document.getElementById("lightbox-caption").textContent =
+			target.getAttribute("data-caption") || target.alt || "";
+	}
+
+	function stepPhotoLightbox(e, dir) {
+		e.stopPropagation();
+		if (!currentLightboxGroup.length) return;
+		currentLightboxIdx =
+			(currentLightboxIdx + dir + currentLightboxGroup.length) %
+			currentLightboxGroup.length;
+		updatePhotoLightbox();
+	}
+
+	function closePhotoLightbox(e) {
+		if (
+			e.target.id === "photo-lightbox" ||
+			e.target.classList.contains("lightbox-close")
+		) {
+			document.getElementById("photo-lightbox").classList.remove("open");
+		}
+	}
+
+	function escapeHtml(str) {
+		return String(str || "")
+			.replace(/&/g, "&amp;")
+			.replace(/</g, "&lt;")
+			.replace(/>/g, "&gt;")
+			.replace(/"/g, "&quot;");
+	}
+
+	function seededRandom(seed) {
+		var x = Math.sin(seed * 9301 + 49297) * 233280;
+		return x - Math.floor(x);
+	}
+
+	function formatShortDate(isoDate) {
+		var months = [
+			"Jan", "Feb", "Mar", "Apr", "May", "Jun",
+			"Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+		];
+		var parts = isoDate.split("-").map(Number);
+		return months[parts[1] - 1] + " " + parts[2] + ", " + parts[0];
+	}
+
+	function renderArchiveCardHtml(entry) {
+		var item = entry.item;
+		var publishIso = entry.publishIso;
+		var badgeMap = {
+			"tour-photos": { cls: "badge-photos", label: "From the +/- Archives &middot; Tour Photos" },
+			"show-throwback": { cls: "badge-show", label: "From the +/- Archives &middot; Live Show" },
+			"release-archive": { cls: "badge-release", label: "From the +/- Archives &middot; Release" },
+			"video-archive": { cls: "badge-video", label: "From the +/- Archives &middot; Video" },
+			"news-archive": { cls: "badge-news", label: "From the +/- Archives &middot; News" },
+			"press-archive": { cls: "badge-press", label: "From the +/- Archives &middot; Press &amp; Radio" }
+		};
+		var b = badgeMap[item.type] || badgeMap["show-throwback"];
+		var bodyHtml = "";
+
+		if (item.type === "tour-photos") {
+			var photosHtml = (item.photos || [])
+				.map(function (src) {
+					var cap = item.dateDisplay + " · " + item.location;
+					return (
+						'<div class="tour-photo-item">' +
+						'<img src="' + escapeHtml(src) + '" alt="' + escapeHtml(cap) + '" data-caption="' + escapeHtml(cap) + '" loading="lazy" onclick="openPhotoLightbox(this)" />' +
+						"</div>"
+					);
+				})
+				.join("");
+
+			bodyHtml =
+				'<div class="show-context-card photos-context">' +
+				'<div class="show-context-details">' +
+				"<strong>Date:</strong> " + escapeHtml(item.dateDisplay) + "<br />" +
+				"<strong>Location:</strong> " + escapeHtml(item.location) + "<br />" +
+				"<strong>Archive:</strong> " + escapeHtml(item.archive) +
+				"</div>" +
+				"</div>" +
+				'<div class="tour-photo-grid">' + photosHtml + "</div>";
+		} else if (item.type === "show-throwback") {
+			var lineupRow = item.lineup
+				? "<br /><strong>Lineup:</strong> " + escapeHtml(item.lineup)
+				: "";
+			bodyHtml =
+				'<div class="show-context-card">' +
+				'<div class="show-context-details">' +
+				"<strong>Date:</strong> " + escapeHtml(item.dateDisplay) + "<br />" +
+				"<strong>Location:</strong> " + escapeHtml(item.location) + "<br />" +
+				"<strong>Venue:</strong> " + escapeHtml(item.venue) +
+				lineupRow +
+				"</div>" +
+				'<a class="shows-archive-link" href="/shows/">All shows &rarr;</a>' +
+				"</div>";
+
+			if (item.archiveId && item.tracks && item.tracks.length > 0) {
+				var defIdx = item.tracks.length > 1 && item.tracks[0].title.toLowerCase() === "intro" ? 1 : 0;
+				var firstTrack = item.tracks[defIdx];
+				var pid = item.archiveId + "-" + publishIso;
+				var tracksHtml = item.tracks
+					.map(function (t, idx) {
+						var activeCls = idx === defIdx ? "active" : "";
+						var numStr = String(t.track).padStart(2, "0");
+						var fullTitle = t.track + ". " + t.title;
+						return (
+							'<li class="archive-track ' + activeCls + '" data-mp3="' + escapeHtml(t.mp3) + '" data-title="' + escapeHtml(fullTitle) + '" onclick="playArchiveTrack(\'' + pid + '\', this)">' +
+							'<span class="track-num">' + escapeHtml(numStr) + "</span>" +
+							'<span class="track-title">' + escapeHtml(t.title) + "</span>" +
+							'<span class="track-len">' + escapeHtml(t.length) + "</span>" +
+							"</li>"
+						);
+					})
+					.join("");
+
+				bodyHtml +=
+					'<div class="archive-player" data-player-id="' + pid + '">' +
+					'<div class="archive-player-header">' +
+					'<div class="archive-now-playing">' +
+					'<span class="archive-np-label">Now Playing:</span>' +
+					'<span class="archive-np-title" id="np-title-' + pid + '">' + escapeHtml(firstTrack.track + ". " + firstTrack.title) + "</span>" +
+					"</div>" +
+					'<audio id="audio-' + pid + '" class="archive-audio" controls preload="none" src="' + escapeHtml(firstTrack.mp3) + '"></audio>' +
+					"</div>" +
+					'<ol class="archive-tracklist" id="tracklist-' + pid + '">' + tracksHtml + "</ol>" +
+					'<div class="archive-player-footer">' +
+					"<span>Recorded by Aadam Jacobs</span>" +
+					'<a href="' + escapeHtml(item.archiveUrl) + '" target="_blank" rel="noopener">Full Concert Audio (FLAC / MP3) on Internet Archive &rarr;</a>' +
+					"</div>" +
+					"</div>";
+			}
+		} else if (item.type === "release-archive") {
+			var pubYear = Number(publishIso.slice(0, 4));
+			var yearsAgo = pubYear - Number(item.year);
+			var yearsPrefix =
+				yearsAgo > 0
+					? "<strong>" + yearsAgo + (yearsAgo === 1 ? " year" : " years") + " ago today</strong>, we released "
+					: "On this day in " + escapeHtml(item.year) + ", we released ";
+			var introHtml =
+				'<p class="release-archive-intro">' +
+				yearsPrefix +
+				'<em><a href="' + escapeHtml(item.permalink) + '">' + escapeHtml(item.releaseTitle) + "</a></em>" +
+				(item.contextSummary ? " — " + escapeHtml(item.contextSummary) : ".") +
+				"</p>";
+			var quoteHtml = item.originalQuote
+				? '<p class="release-archive-quote"><strong>From the original announcement:</strong> &ldquo;' +
+				  escapeHtml(item.originalQuote) +
+				  "&rdquo;</p>"
+				: "";
+
+			var trkHtml = (item.tracks || [])
+				.map(function (t) {
+					return "<li>" + escapeHtml(t) + "</li>";
+				})
+				.join("");
+			var linksHtml = '<a href="' + escapeHtml(item.permalink) + '">Release page &rarr;</a>';
+			if (item.lyricsUrl) {
+				linksHtml += '<a href="' + escapeHtml(item.lyricsUrl) + '">Lyrics &rarr;</a>';
+			}
+			if (item.storeUrl) {
+				linksHtml += '<a href="' + escapeHtml(item.storeUrl) + '">Store &rarr;</a>';
+			}
+			bodyHtml =
+				introHtml +
+				'<div class="release-archive-card">' +
+				'<div class="release-archive-art">' +
+				'<a href="' + escapeHtml(item.permalink) + '"><img src="' + escapeHtml(item.imageUrl) + '" alt="' + escapeHtml(item.releaseTitle) + '" loading="lazy" /></a>' +
+				"</div>" +
+				'<div class="release-archive-details">' +
+				"<strong>Released:</strong> " + escapeHtml(item.dateDisplay) + "<br />" +
+				"<strong>Info:</strong> " + escapeHtml(item.releaseInfo) + "<br />" +
+				quoteHtml +
+				(trkHtml ? '<ol class="release-archive-tracks">' + trkHtml + "</ol>" : "") +
+				'<div class="release-archive-links">' + linksHtml + "</div>" +
+				"</div>" +
+				"</div>";
+		} else if (item.type === "video-archive") {
+			bodyHtml =
+				'<div class="show-context-card video-context-card">' +
+				'<div class="show-context-details">' +
+				"<strong>Date:</strong> " + escapeHtml(item.dateDisplay) + "<br />" +
+				'<strong>Track:</strong> ' + escapeHtml(item.trackTitle) + ' (from <a href="' + escapeHtml(item.albumUrl) + '">' + escapeHtml(item.albumTitle) + "</a>)<br />" +
+				"<strong>Note:</strong> &ldquo;" + escapeHtml(item.quote) + "&rdquo;" +
+				"</div>" +
+				"</div>" +
+				'<div class="video-container">' +
+				'<iframe width="100%" height="473px" src="' + escapeHtml(item.youtubeEmbed) + '" title="' + escapeHtml(item.title) + '" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>' +
+				"</div>";
+		} else if (item.type === "news-archive") {
+			var pHtml = (item.paragraphs || [])
+				.map(function (p) {
+					return "<p>" + escapeHtml(p) + "</p>";
+				})
+				.join("");
+			bodyHtml = '<div class="news-archive-quote">' + pHtml + "</div>";
+		} else if (item.type === "press-archive") {
+			bodyHtml =
+				'<div class="show-context-card press-context-card">' +
+				'<div class="show-context-details">' +
+				"<strong>Date:</strong> " + escapeHtml(item.dateDisplay) + "<br />" +
+				"<strong>Feature:</strong> " + escapeHtml(item.feature) + ' (from <a href="' + escapeHtml(item.albumUrl) + '">' + escapeHtml(item.albumTitle) + "</a>)<br />" +
+				"<strong>Original Post:</strong> &ldquo;" + escapeHtml(item.quote) + "&rdquo;" +
+				"</div>" +
+				"</div>";
+		}
+
+		return (
+			'<li class="archive-feed-item" id="' + escapeHtml(item.id) + '" data-post-date="' + publishIso + '">' +
+			'<span class="post-meta">' +
+			'<span class="post-badge ' + b.cls + '">' + b.label + "</span>" +
+			formatShortDate(publishIso) +
+			"</span>" +
+			"<h3>" +
+			'<a class="post-link" href="#' + escapeHtml(item.id) + '">' + escapeHtml(item.title) + "</a>" +
+			"</h3>" +
+			'<div class="content">' + bodyHtml + "</div>" +
+			"</li>"
+		);
+	}
+
+	document.addEventListener("DOMContentLoaded", function () {
+		fetch("/assets/data/archive_pool.json")
+			.then(function (r) {
+				return r.json();
+			})
+			.then(function (pool) {
+				var byMmdd = {};
+				pool.forEach(function (item) {
+					if (!byMmdd[item.mmdd]) byMmdd[item.mmdd] = [];
+					byMmdd[item.mmdd].push(item);
+				});
+
+				// Launch epoch: Sunday Oct 11, 2026 (so Oct 11-17 is Week 0 and Oct 18-24 is Week 1 => 2 posts live on Oct 24, 2026)
+				var launchEpoch = new Date("2026-10-11T00:00:00");
+				var now = new Date();
+				var todayIso =
+					now.getFullYear() +
+					"-" +
+					String(now.getMonth() + 1).padStart(2, "0") +
+					"-" +
+					String(now.getDate()).padStart(2, "0");
+
+				var totalDaysSinceLaunch = Math.floor(
+					(now.getTime() - launchEpoch.getTime()) / 86400000
+				);
+				var maxWeekIdx = Math.max(0, Math.floor(totalDaysSinceLaunch / 7));
+
+				var selectedEntries = [];
+				var lastType = null;
+				var lastPublishMs = 0;
+
+				for (var w = 0; w <= maxWeekIdx; w++) {
+					var allWeekCandidates = [];
+					for (var d = 0; d < 7; d++) {
+						var slotDate = new Date(
+							launchEpoch.getTime() + (w * 7 + d) * 86400000
+						);
+						var yyyy = slotDate.getFullYear();
+						var mm = String(slotDate.getMonth() + 1).padStart(2, "0");
+						var dd = String(slotDate.getDate()).padStart(2, "0");
+						var slotIso = yyyy + "-" + mm + "-" + dd;
+						var mmdd = mm + "-" + dd;
+						var matches = byMmdd[mmdd] || [];
+						matches.forEach(function (m) {
+							allWeekCandidates.push({
+								publishIso: slotIso,
+								publishMs: slotDate.getTime(),
+								item: m
+							});
+						});
+					}
+
+					if (allWeekCandidates.length === 0) continue;
+
+					// Enforce at least 4 days since previous week's post so consecutive weeks never fire on back-to-back days
+					var candidates = allWeekCandidates.filter(function (c) {
+						return !lastPublishMs || c.publishMs - lastPublishMs >= 4 * 86400000;
+					});
+					if (candidates.length === 0) candidates = allWeekCandidates;
+
+					// Group candidates by type and exclude last week's type so types always alternate
+					var byType = {};
+					candidates.forEach(function (c) {
+						if (!byType[c.item.type]) byType[c.item.type] = [];
+						byType[c.item.type].push(c);
+					});
+					var availableTypes = Object.keys(byType).sort();
+					var filteredTypes = availableTypes.filter(function (t) {
+						return t !== lastType;
+					});
+					if (filteredTypes.length === 0) filteredTypes = availableTypes;
+
+					var typeSeed = 2026000 + w * 37 + 11;
+					var chosenType =
+						filteredTypes[
+							Math.floor(seededRandom(typeSeed) * filteredTypes.length)
+						];
+					var poolForType = byType[chosenType];
+					var itemSeed = 2026000 + w * 97 + 23;
+					var chosenEntry =
+						poolForType[
+							Math.floor(seededRandom(itemSeed) * poolForType.length)
+						];
+
+					lastType = chosenType;
+					lastPublishMs = chosenEntry.publishMs;
+
+					if (chosenEntry.publishIso <= todayIso) {
+						selectedEntries.push(chosenEntry);
+					}
+				}
+
+				// Cap at 20 most recent persistent archival posts
+				var cappedEntries = selectedEntries.slice(-20).reverse();
+
+				var listEl = document.getElementById("news-post-list");
+				if (!listEl) return;
+
+				cappedEntries.forEach(function (entry) {
+					var temp = document.createElement("div");
+					temp.innerHTML = renderArchiveCardHtml(entry);
+					var newLi = temp.firstElementChild;
+
+					// Insert in reverse chronological order alongside static news posts
+					var inserted = false;
+					var existingItems = Array.from(listEl.children);
+					for (var i = 0; i < existingItems.length; i++) {
+						var exDate = existingItems[i].getAttribute("data-post-date") || "";
+						if (entry.publishIso >= exDate) {
+							listEl.insertBefore(newLi, existingItems[i]);
+							inserted = true;
+							break;
+						}
+					}
+					if (!inserted) {
+						listEl.appendChild(newLi);
+					}
+				});
+
+				bindArchivePlayers();
+			})
+			.catch(function (err) {
+				console.error("Failed to load archive pool:", err);
+			});
+	});
 </script>

@@ -1,0 +1,38 @@
+{% assign show_data = site.data.archive_shows[include.id] %}
+{% if show_data %}
+{% assign default_idx = include.default_track | default: 0 %}
+{% assign first_track = show_data.tracks[default_idx] %}
+<div class="archive-player" data-player-id="{{ include.id }}">
+	<div class="archive-player-header">
+		<div class="archive-now-playing">
+			<span class="archive-np-label">Now Playing:</span>
+			<span class="archive-np-title" id="np-title-{{ include.id }}">{{ first_track.track }}. {{ first_track.title }}</span>
+		</div>
+		<audio
+			id="audio-{{ include.id }}"
+			class="archive-audio"
+			controls
+			preload="none"
+			src="{{ first_track.mp3 }}"
+		></audio>
+	</div>
+	<ol class="archive-tracklist" id="tracklist-{{ include.id }}">
+		{% for t in show_data.tracks %}
+		<li
+			class="archive-track {% if forloop.index0 == default_idx %}active{% endif %}"
+			data-mp3="{{ t.mp3 }}"
+			data-title="{{ t.track }}. {{ t.title | escape }}"
+			onclick="playArchiveTrack('{{ include.id }}', this)"
+		>
+			<span class="track-num">{{ t.track | prepend: '0' | slice: -2, 2 }}</span>
+			<span class="track-title">{{ t.title }}</span>
+			<span class="track-len">{{ t.length }}</span>
+		</li>
+		{% endfor %}
+	</ol>
+	<div class="archive-player-footer">
+		<span>Recorded by Aadam Jacobs</span>
+		<a href="{{ show_data.url }}" target="_blank" rel="noopener">Full Concert Audio (FLAC / MP3) on Internet Archive &rarr;</a>
+	</div>
+</div>
+{% endif %}
