@@ -3,9 +3,123 @@ layout: default
 ---
 
 <div class="container">
-	<div class="hero">
-		<div class="image"><img src="/assets/img/opt/fa.jpg" /></div>
-		<div class="content">{{ content }}</div>
+	<div class="hero hero-redbox" id="hero-redbox">
+		<div class="hero-media" id="hero-media">
+			<div class="hero-carousel-stage" id="hero-carousel-stage">
+				<a
+					href="/further-afield/"
+					id="hero-stage-link"
+					class="hero-stage-link"
+				>
+					<div class="hero-album-triptych">
+						<img src="/assets/img/opt/fa.jpg" alt="" aria-hidden="true" />
+						<img src="/assets/img/opt/fa.jpg" alt="Further Afield album cover" />
+						<img src="/assets/img/opt/fa.jpg" alt="" aria-hidden="true" />
+					</div>
+					<img
+						src="/assets/img/opt/fa.jpg"
+						alt="Further Afield album cover"
+						id="hero-cover-img"
+						class="hero-still-img is-album-art"
+					/>
+				</a>
+			</div>
+		</div>
+		<div class="hero-panel">
+			<div class="hero-header-row">
+				<h1><a href="/further-afield/">Further Afield!</a></h1>
+			</div>
+
+			<div class="hero-group">
+				<div class="hero-group-title">Our latest Release</div>
+				<div class="hero-links-row">
+					<span class="hero-format-tag">Vinyl LP:</span>
+					<span class="hero-format-links">
+						<a href="https://ernestjenning.limitedrun.com/products/778312">Order from EJRC</a>
+						<span class="hero-sep">&middot;</span>
+						<a href="https://plusminusnyc.bandcamp.com/album/further-afield">Bandcamp</a>
+					</span>
+				</div>
+				<div class="hero-links-row">
+					<span class="hero-format-tag">Japanese CD:</span>
+					<span class="hero-format-links">
+						<a href="https://7eptokyo.bandcamp.com/album/further-afield-cd-digital">Order from 7e.p.</a>
+					</span>
+				</div>
+				<div class="hero-links-row">
+					<span class="hero-format-tag">Merch &amp; More:</span>
+					<span class="hero-format-links">
+						<a href="/store/">Visit the +/- Store</a>
+					</span>
+				</div>
+			</div>
+
+			<div class="hero-group hero-videos-group">
+				<div class="hero-group-title">Videos</div>
+				<div class="hero-video-pills" id="hero-video-pills">
+					<a
+						class="hero-video-pill"
+						href="https://www.youtube.com/watch?v=UJKDO7uQCeM"
+						target="_blank"
+						rel="noopener"
+						data-slide-idx="1"
+						onmouseenter="previewHeroSlide(1)"
+					>
+						Borrowed Time
+					</a>
+					<a
+						class="hero-video-pill"
+						href="https://www.youtube.com/watch?v=Fi9gp52e68Y"
+						target="_blank"
+						rel="noopener"
+						data-slide-idx="2"
+						onmouseenter="previewHeroSlide(2)"
+					>
+						Gondolier
+					</a>
+					<a
+						class="hero-video-pill"
+						href="https://www.youtube.com/watch?v=KbIUbA-2Fas"
+						target="_blank"
+						rel="noopener"
+						data-slide-idx="3"
+						onmouseenter="previewHeroSlide(3)"
+					>
+						Calling Off the Rescue
+					</a>
+					<a
+						class="hero-video-pill"
+						href="https://www.youtube.com/watch?v=-6VBBin0yHo"
+						target="_blank"
+						rel="noopener"
+						data-slide-idx="4"
+						onmouseenter="previewHeroSlide(4)"
+					>
+						Intentionally Left Blank
+					</a>
+					<a
+						class="hero-video-pill"
+						href="https://www.youtube.com/watch?v=l-ZDKTike98"
+						target="_blank"
+						rel="noopener"
+						data-slide-idx="5"
+						onmouseenter="previewHeroSlide(5)"
+					>
+						Contempt
+					</a>
+					<a
+						class="hero-video-pill"
+						href="https://www.youtube.com/watch?v=eZbZvPcfQVo"
+						target="_blank"
+						rel="noopener"
+						data-slide-idx="6"
+						onmouseenter="previewHeroSlide(6)"
+					>
+						The Pull From Both Sides
+					</a>
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<div class="news">
@@ -357,7 +471,119 @@ layout: default
 		);
 	}
 
+	var heroCarouselItems = [
+		{
+			type: "cover",
+			title: "Further Afield",
+			img: "/assets/img/opt/fa.jpg",
+			url: "/further-afield/",
+			vid: null
+		},
+		{
+			type: "video",
+			title: "Borrowed Time",
+			img: "/assets/img/opt/videos/borrowed-time.jpg",
+			url: "https://www.youtube.com/watch?v=UJKDO7uQCeM",
+			vid: "UJKDO7uQCeM"
+		},
+		{
+			type: "video",
+			title: "Gondolier",
+			img: "/assets/img/opt/videos/gondolier.jpg",
+			url: "https://www.youtube.com/watch?v=Fi9gp52e68Y",
+			vid: "Fi9gp52e68Y"
+		},
+		{
+			type: "video",
+			title: "Calling Off the Rescue",
+			img: "/assets/img/opt/videos/calling-off-the-rescue.jpg",
+			url: "https://www.youtube.com/watch?v=KbIUbA-2Fas",
+			vid: "KbIUbA-2Fas"
+		},
+		{
+			type: "video",
+			title: "Intentionally Left Blank",
+			img: "/assets/img/opt/videos/intentionally-left-blank.jpg",
+			url: "https://www.youtube.com/watch?v=-6VBBin0yHo",
+			vid: "-6VBBin0yHo"
+		},
+		{
+			type: "video",
+			title: "Contempt",
+			img: "/assets/img/opt/videos/contempt.jpg",
+			url: "https://www.youtube.com/watch?v=l-ZDKTike98",
+			vid: "l-ZDKTike98"
+		},
+		{
+			type: "video",
+			title: "The Pull From Both Sides",
+			img: "/assets/img/opt/videos/the-pull-from-both-sides.jpg",
+			url: "https://www.youtube.com/watch?v=eZbZvPcfQVo",
+			vid: "eZbZvPcfQVo"
+		}
+	];
+
+	var currentHeroCarouselIdx = 0;
+	var heroCarouselTimer = null;
+
+	function selectHeroSlide(idx) {
+		currentHeroCarouselIdx =
+			(idx + heroCarouselItems.length) % heroCarouselItems.length;
+		var slide = heroCarouselItems[currentHeroCarouselIdx];
+		var coverImg = document.getElementById("hero-cover-img");
+		var stageLink = document.getElementById("hero-stage-link");
+		if (!coverImg) return;
+
+		document
+			.querySelectorAll("#hero-video-pills .hero-video-pill")
+			.forEach(function (p) {
+				var pIdx = Number(p.getAttribute("data-slide-idx"));
+				if (pIdx === currentHeroCarouselIdx) p.classList.add("active");
+				else p.classList.remove("active");
+			});
+
+		coverImg.src = slide.img;
+		coverImg.alt = slide.title;
+		if (slide.type === "cover") {
+			coverImg.classList.add("is-album-art");
+		} else {
+			coverImg.classList.remove("is-album-art");
+		}
+		if (stageLink) {
+			stageLink.href = slide.url;
+			if (slide.type === "video") {
+				stageLink.setAttribute("target", "_blank");
+				stageLink.setAttribute("rel", "noopener");
+			} else {
+				stageLink.removeAttribute("target");
+				stageLink.removeAttribute("rel");
+			}
+		}
+	}
+
+	function stepHeroCarousel(e, dir) {
+		if (e) {
+			e.preventDefault();
+			e.stopPropagation();
+		}
+		selectHeroSlide(currentHeroCarouselIdx + dir);
+		startHeroCarouselTimer();
+	}
+
+	function previewHeroSlide(idx) {
+		selectHeroSlide(idx);
+		startHeroCarouselTimer();
+	}
+
+	function startHeroCarouselTimer() {
+		if (heroCarouselTimer) clearInterval(heroCarouselTimer);
+		heroCarouselTimer = setInterval(function () {
+			selectHeroSlide(currentHeroCarouselIdx + 1);
+		}, 4000);
+	}
+
 	document.addEventListener("DOMContentLoaded", function () {
+		startHeroCarouselTimer();
 		fetch("/assets/data/archive_pool.json")
 			.then(function (r) {
 				return r.json();

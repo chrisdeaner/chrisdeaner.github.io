@@ -14,6 +14,7 @@ excerpt_separator: <!--more-->
 
 <div id="release-info">
     <b>General Vinyl Release</b>. Released May 31st, 2024 on <a href="https://www.ernestjenning.com/products/778312-plus-minus-further-afield">Ernest Jenning Record Co</a><br/>
+    <b>In Europe?</b> Order the Vinyl LP from UK (<a href="https://www.juno.co.uk/products/plus-minus-further-afield-vinyl/1016396-01/?currency=GBP&flt=1">Juno</a>, <a href="https://www.amazon.co.uk/Further-Afield-VINYL-Plus-Minus/dp/B0CXY6VFFJ">Amazon UK</a>) or EU (<a href="https://www.amazon.de/-/en/Plus-Minus/dp/B0CXY6VFFJ">Amazon DE</a>, <a href="https://www.bol.com/nl/nl/p/further-afield/9300000177220504/">Bol.</a>, <a href="https://bigdipper.no/ernest-jenning-records/ejrc212lp/plus-minus-further-afield-ltd-lp">Big Dipper</a>, <a href="https://imusic.se/music/0600064801218/-plus-minus-2024-further-afield-lp">imusic</a>, <a href="https://shop.season-of-mist.com/plus-minus-further-afield-lp-coloured">Season of Mist</a>) outlets.
 </div>
 <div id="container">
     <div id="release-container">
