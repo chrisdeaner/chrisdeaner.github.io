@@ -131,6 +131,10 @@ button {
 					button {
 						margin-top: 7px;
 					}
+					button.sold-out {
+						background-color: #828282;
+						cursor: not-allowed;
+					}
 				}
 			}
 			.image {

@@ -36,6 +36,11 @@ layout: default
 					<div class="content-container">
 						<div class="price">
 							${{post.price}}
+							{%- if post.sold_out -%}
+							<div>
+								<button disabled class="sold-out">Sold Out</button>
+							</div>
+							{%- else -%}
 							<form
 								target="paypal"
 								action="https://www.paypal.com/cgi-bin/webscr"
@@ -91,6 +96,7 @@ layout: default
 									value="PP-ShopCartBF"
 								/>
 							</form>
+							{%- endif -%}
 						</div>
 					</div>
 				</div>
